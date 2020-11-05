@@ -13,7 +13,9 @@ Na windowsie nie działa numpy 1.19.4, musi być 1.19.3
 python main.py [-f]
 ```
 
-jeśli podasz argument -f, to wtedy wymusi pobranie dystansów z API
+jeśli podasz argument -f, to wtedy wymusi pobranie dystansów z API.
+Bez tego, jeśli istnieje plik distances.json, to bierze z niego.
+Plik jest zapisywany przy pierwszym uruchomieniu
 
 Wejściowy plik: loty.csv
 Wyjściowy: loty_przeliczone.csv
