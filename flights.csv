@@ -1,0 +1,1001 @@
+flight_id,cityA,cityB,flight_dt,airplane_id
+1,Chicago,Paris,1/22/2019,3
+2,Frankfurt,London,3/12/2019,5
+3,Warsaw,Chicago,4/24/2019,5
+4,Frankfurt,Warsaw,8/18/2019,1
+5,Warsaw,London,12/23/2019,5
+6,Berlin,Frankfurt,6/5/2019,2
+7,Frankfurt,Rome,9/22/2019,4
+8,Katowice,Tokio,8/14/2019,1
+9,Paris,London,8/30/2019,4
+10,Katowice,Rome,4/19/2019,2
+11,Katowice,New York,4/14/2019,4
+12,New York,Berlin,8/26/2019,4
+13,Katowice,Berlin,9/8/2019,4
+14,Chicago,Warsaw,11/27/2019,4
+15,Rome,Tokio,8/20/2019,3
+16,Tokio,Warsaw,9/5/2019,3
+17,Chicago,Katowice,12/5/2019,2
+18,Tokio,Katowice,8/21/2019,3
+19,Paris,Tokio,3/22/2019,3
+20,New York,Katowice,9/4/2019,1
+21,Katowice,Chicago,6/30/2019,2
+22,Katowice,Frankfurt,4/4/2019,5
+23,Frankfurt,Tokio,1/1/2019,3
+24,Berlin,Warsaw,4/8/2019,1
+25,Paris,Tokio,10/21/2019,4
+26,Tokio,Chicago,10/1/2019,4
+27,Chicago,New York,5/7/2019,4
+28,Berlin,London,3/9/2019,2
+29,Berlin,London,2/2/2019,5
+30,Frankfurt,Warsaw,8/12/2019,2
+31,New York,Katowice,11/20/2019,2
+32,Tokio,Rome,2/2/2019,5
+33,Rome,London,12/28/2019,1
+34,Frankfurt,Berlin,11/28/2019,3
+35,Warsaw,London,12/29/2019,5
+36,Warsaw,Tokio,2/4/2019,3
+37,Rome,Warsaw,4/19/2019,5
+38,New York,London,9/1/2019,4
+39,Tokio,Tokio,11/1/2019,4
+40,New York,Berlin,12/28/2019,1
+41,London,London,9/18/2019,5
+42,Berlin,Frankfurt,6/5/2019,5
+43,Rome,Katowice,11/14/2019,5
+44,Frankfurt,Rome,5/23/2019,2
+45,New York,Rome,12/13/2019,4
+46,Warsaw,London,7/23/2019,5
+47,Warsaw,Tokio,10/20/2019,3
+48,London,Rome,11/12/2019,3
+49,Berlin,London,9/5/2019,3
+50,Chicago,Tokio,9/1/2019,5
+51,New York,Frankfurt,10/27/2019,3
+52,Warsaw,Tokio,9/16/2019,2
+53,Frankfurt,New York,7/30/2019,2
+54,Warsaw,New York,12/19/2019,4
+55,Katowice,Chicago,6/2/2019,3
+56,Frankfurt,Paris,4/10/2019,5
+57,London,Warsaw,10/18/2019,5
+58,Warsaw,Tokio,5/19/2019,3
+59,Berlin,Tokio,3/28/2019,3
+60,Rome,Chicago,1/31/2019,1
+61,Chicago,Warsaw,9/30/2019,3
+62,New York,Berlin,11/23/2019,4
+63,Chicago,Katowice,11/27/2019,3
+64,Chicago,Paris,3/3/2019,1
+65,Chicago,Berlin,2/2/2019,2
+66,Katowice,Katowice,2/12/2019,4
+67,Frankfurt,Tokio,8/28/2019,4
+68,Chicago,Tokio,12/8/2019,4
+69,Frankfurt,Paris,7/20/2019,1
+70,Tokio,London,3/3/2019,1
+71,Chicago,Rome,11/4/2019,2
+72,Berlin,London,8/13/2019,4
+73,Rome,Rome,4/13/2019,3
+74,London,Rome,8/3/2019,4
+75,New York,Frankfurt,8/24/2019,3
+76,Chicago,Paris,9/9/2019,3
+77,Tokio,Tokio,1/25/2019,2
+78,Katowice,Warsaw,3/8/2019,5
+79,Berlin,Frankfurt,10/1/2019,5
+80,London,Chicago,12/6/2019,2
+81,Rome,London,4/25/2019,4
+82,Rome,Chicago,8/22/2019,1
+83,Katowice,Katowice,10/24/2019,3
+84,New York,Paris,12/19/2019,3
+85,Chicago,Frankfurt,4/13/2019,1
+86,Tokio,Frankfurt,7/22/2019,3
+87,Katowice,New York,12/23/2019,4
+88,Berlin,Warsaw,4/18/2019,2
+89,Warsaw,Frankfurt,5/16/2019,3
+90,Warsaw,Chicago,3/29/2019,1
+91,Katowice,Paris,8/3/2019,5
+92,London,Katowice,10/21/2019,3
+93,London,Frankfurt,6/13/2019,3
+94,Chicago,Rome,11/9/2019,2
+95,Katowice,New York,12/6/2019,5
+96,Katowice,Paris,4/23/2019,1
+97,Chicago,Chicago,3/5/2019,5
+98,Berlin,Berlin,6/22/2019,1
+99,Paris,Tokio,1/7/2019,5
+100,Tokio,Berlin,5/30/2019,4
+101,Chicago,Tokio,4/22/2019,3
+102,Paris,Warsaw,10/30/2019,2
+103,Rome,Warsaw,3/9/2019,1
+104,Rome,Chicago,11/17/2019,1
+105,Paris,Warsaw,1/29/2019,3
+106,Paris,Frankfurt,4/2/2019,3
+107,Chicago,Berlin,5/21/2019,4
+108,Rome,Warsaw,3/28/2019,1
+109,Chicago,London,5/29/2019,5
+110,Frankfurt,Warsaw,5/22/2019,4
+111,Warsaw,London,10/28/2019,2
+112,New York,Warsaw,4/21/2019,5
+113,Chicago,London,10/31/2019,1
+114,Warsaw,Chicago,2/10/2019,1
+115,Warsaw,Paris,4/11/2019,1
+116,Berlin,Katowice,2/2/2019,2
+117,Paris,Katowice,5/5/2019,1
+118,London,Tokio,4/23/2019,3
+119,Katowice,Rome,1/5/2019,1
+120,Frankfurt,New York,3/6/2019,1
+121,Frankfurt,Katowice,4/29/2019,2
+122,New York,New York,8/14/2019,4
+123,Berlin,Frankfurt,9/6/2019,1
+124,Paris,Chicago,1/1/2019,5
+125,Katowice,London,12/4/2019,3
+126,Berlin,Chicago,7/16/2019,2
+127,Katowice,New York,9/20/2019,2
+128,Berlin,Katowice,1/15/2019,2
+129,Katowice,Warsaw,1/25/2019,2
+130,Chicago,Chicago,6/27/2019,5
+131,Tokio,Katowice,2/28/2019,2
+132,Warsaw,Rome,2/26/2019,5
+133,London,Paris,1/1/2019,4
+134,Tokio,Rome,8/31/2019,5
+135,New York,New York,3/4/2019,3
+136,Paris,London,4/11/2019,1
+137,Berlin,Tokio,7/17/2019,5
+138,Warsaw,Warsaw,12/30/2019,1
+139,Frankfurt,Berlin,3/30/2019,2
+140,Chicago,Warsaw,7/6/2019,2
+141,Berlin,Katowice,6/11/2019,5
+142,Berlin,Frankfurt,5/17/2019,1
+143,Warsaw,Berlin,10/17/2019,4
+144,Berlin,Tokio,1/3/2019,3
+145,Tokio,Rome,8/8/2019,5
+146,Tokio,Rome,11/27/2019,3
+147,New York,New York,1/27/2019,3
+148,New York,New York,8/13/2019,2
+149,London,London,7/26/2019,5
+150,Frankfurt,Tokio,12/13/2019,2
+151,Rome,Tokio,1/11/2019,1
+152,New York,Frankfurt,1/11/2019,4
+153,Frankfurt,Chicago,9/10/2019,1
+154,Warsaw,Tokio,3/9/2019,5
+155,Paris,Berlin,7/24/2019,3
+156,Chicago,Chicago,5/14/2019,2
+157,New York,Paris,7/2/2019,3
+158,London,Katowice,9/9/2019,4
+159,Tokio,Chicago,8/14/2019,3
+160,Warsaw,Katowice,2/18/2019,3
+161,Tokio,Paris,3/2/2019,2
+162,Frankfurt,Chicago,12/15/2019,1
+163,Frankfurt,Tokio,1/23/2019,4
+164,Warsaw,Paris,10/21/2019,1
+165,London,Berlin,11/2/2019,3
+166,Katowice,Chicago,4/5/2019,1
+167,Berlin,Frankfurt,10/31/2019,5
+168,New York,Paris,9/8/2019,2
+169,Berlin,Tokio,2/1/2019,2
+170,Frankfurt,Paris,11/1/2019,1
+171,Tokio,Paris,4/21/2019,3
+172,Warsaw,London,5/26/2019,1
+173,Rome,Katowice,11/9/2019,2
+174,Rome,Katowice,7/15/2019,5
+175,Frankfurt,Rome,4/27/2019,5
+176,New York,Chicago,12/4/2019,1
+177,Paris,Katowice,3/26/2019,2
+178,Rome,Warsaw,7/25/2019,3
+179,Rome,Tokio,5/12/2019,5
+180,Katowice,Paris,10/1/2019,2
+181,Paris,Paris,8/11/2019,1
+182,Rome,Tokio,9/12/2019,3
+183,Frankfurt,Katowice,1/4/2019,1
+184,London,Warsaw,12/20/2019,5
+185,Frankfurt,London,10/14/2019,4
+186,London,Paris,5/6/2019,1
+187,Chicago,Tokio,7/7/2019,1
+188,Katowice,Berlin,10/27/2019,2
+189,Warsaw,Frankfurt,10/7/2019,2
+190,London,Berlin,3/6/2019,2
+191,Paris,London,2/10/2019,1
+192,Rome,Berlin,1/24/2019,5
+193,Berlin,New York,9/4/2019,5
+194,Tokio,Katowice,7/28/2019,3
+195,Tokio,Chicago,1/24/2019,5
+196,Tokio,Warsaw,11/27/2019,3
+197,Paris,Chicago,10/13/2019,4
+198,Warsaw,London,6/12/2019,4
+199,Berlin,Chicago,11/15/2019,3
+200,Paris,Chicago,7/14/2019,2
+201,Chicago,Frankfurt,7/4/2019,3
+202,New York,London,2/15/2019,3
+203,Frankfurt,Frankfurt,3/24/2019,1
+204,Tokio,Katowice,7/21/2019,5
+205,London,Frankfurt,1/1/2019,3
+206,Frankfurt,Paris,9/22/2019,2
+207,Frankfurt,Tokio,11/15/2019,5
+208,Warsaw,Frankfurt,12/13/2019,3
+209,Berlin,Katowice,5/9/2019,5
+210,Rome,Paris,1/10/2019,5
+211,Tokio,Rome,10/23/2019,3
+212,Katowice,London,1/18/2019,5
+213,Katowice,Warsaw,1/24/2019,4
+214,Berlin,Warsaw,2/20/2019,3
+215,New York,Berlin,4/2/2019,2
+216,New York,London,9/21/2019,4
+217,New York,Tokio,12/19/2019,3
+218,Katowice,Tokio,7/16/2019,2
+219,Frankfurt,Berlin,3/3/2019,3
+220,Warsaw,Chicago,4/22/2019,5
+221,Rome,Chicago,4/7/2019,2
+222,London,Warsaw,6/27/2019,2
+223,Warsaw,Katowice,11/14/2019,4
+224,London,New York,2/5/2019,1
+225,New York,Warsaw,8/9/2019,1
+226,London,London,4/4/2019,4
+227,Tokio,New York,3/15/2019,2
+228,Frankfurt,London,3/2/2019,2
+229,New York,Tokio,9/23/2019,1
+230,Chicago,Katowice,1/14/2019,4
+231,Chicago,Rome,11/22/2019,5
+232,Rome,Paris,4/6/2019,1
+233,Chicago,Warsaw,12/5/2019,3
+234,Katowice,Berlin,3/28/2019,2
+235,London,Paris,12/18/2019,4
+236,Chicago,Paris,12/12/2019,5
+237,Tokio,Berlin,2/5/2019,4
+238,Paris,New York,9/4/2019,3
+239,London,London,11/25/2019,5
+240,Katowice,Tokio,7/17/2019,5
+241,London,Tokio,4/23/2019,3
+242,Tokio,Tokio,8/7/2019,1
+243,Paris,Paris,10/25/2019,1
+244,Paris,Tokio,12/22/2019,1
+245,Rome,London,4/11/2019,3
+246,Chicago,New York,3/15/2019,3
+247,Katowice,London,1/17/2019,3
+248,Tokio,Chicago,9/22/2019,4
+249,Frankfurt,Katowice,4/9/2019,4
+250,Berlin,Rome,12/25/2019,2
+251,Frankfurt,Frankfurt,7/16/2019,2
+252,Warsaw,Chicago,1/18/2019,4
+253,Frankfurt,Tokio,5/25/2019,5
+254,New York,Chicago,6/20/2019,1
+255,Rome,London,7/6/2019,3
+256,Paris,Frankfurt,11/5/2019,1
+257,Warsaw,Rome,9/12/2019,2
+258,Paris,Paris,6/24/2019,5
+259,Katowice,Katowice,11/9/2019,2
+260,Berlin,Berlin,8/24/2019,4
+261,Chicago,Chicago,5/21/2019,4
+262,Katowice,Paris,7/29/2019,4
+263,London,Frankfurt,10/1/2019,2
+264,New York,New York,3/2/2019,5
+265,Paris,Tokio,6/27/2019,2
+266,Paris,Rome,3/8/2019,2
+267,Paris,Rome,9/24/2019,3
+268,Tokio,Warsaw,1/14/2019,3
+269,Berlin,Paris,12/4/2019,4
+270,Berlin,Berlin,3/18/2019,3
+271,Berlin,Frankfurt,2/2/2019,5
+272,Chicago,New York,10/26/2019,5
+273,Warsaw,Berlin,6/19/2019,1
+274,Katowice,Warsaw,12/4/2019,2
+275,Warsaw,New York,12/8/2019,4
+276,Rome,Chicago,3/25/2019,1
+277,Tokio,Berlin,7/2/2019,5
+278,Berlin,New York,12/6/2019,2
+279,Paris,New York,12/3/2019,1
+280,Frankfurt,Rome,7/26/2019,4
+281,Warsaw,London,8/15/2019,1
+282,Frankfurt,London,12/6/2019,5
+283,Berlin,Chicago,5/26/2019,1
+284,Berlin,Katowice,5/12/2019,4
+285,Frankfurt,Tokio,3/1/2019,3
+286,London,London,7/24/2019,5
+287,Chicago,Chicago,3/18/2019,4
+288,Katowice,New York,11/26/2019,2
+289,Katowice,Chicago,11/3/2019,5
+290,Frankfurt,Warsaw,11/22/2019,3
+291,London,Berlin,8/27/2019,1
+292,Katowice,Frankfurt,1/11/2019,2
+293,Rome,Paris,12/1/2019,3
+294,New York,Katowice,3/2/2019,2
+295,New York,Chicago,12/12/2019,5
+296,Paris,Tokio,11/26/2019,1
+297,London,Warsaw,12/17/2019,1
+298,Katowice,Warsaw,5/5/2019,3
+299,Frankfurt,New York,3/24/2019,1
+300,Rome,Frankfurt,11/20/2019,3
+301,New York,Warsaw,9/24/2019,5
+302,London,Tokio,7/24/2019,3
+303,London,Berlin,5/31/2019,1
+304,Paris,Tokio,6/8/2019,3
+305,Berlin,Frankfurt,7/1/2019,3
+306,Chicago,Warsaw,3/7/2019,1
+307,London,New York,10/25/2019,3
+308,New York,New York,9/10/2019,2
+309,Katowice,New York,4/6/2019,3
+310,Paris,New York,11/2/2019,5
+311,Paris,New York,8/27/2019,3
+312,London,Tokio,7/30/2019,1
+313,Rome,London,6/22/2019,5
+314,Berlin,Frankfurt,8/30/2019,3
+315,Paris,Paris,2/14/2019,3
+316,Berlin,Tokio,10/9/2019,1
+317,Chicago,Chicago,12/25/2019,4
+318,Tokio,London,6/29/2019,4
+319,Paris,Frankfurt,3/16/2019,5
+320,Frankfurt,New York,6/29/2019,2
+321,Tokio,New York,1/4/2019,1
+322,New York,Paris,8/29/2019,1
+323,Frankfurt,Warsaw,6/7/2019,5
+324,Chicago,Tokio,1/5/2019,3
+325,Rome,Paris,7/14/2019,4
+326,Rome,Tokio,6/15/2019,3
+327,New York,Frankfurt,3/19/2019,5
+328,London,Rome,1/2/2019,5
+329,Tokio,Berlin,11/2/2019,5
+330,London,Berlin,5/31/2019,2
+331,Chicago,Tokio,11/20/2019,3
+332,Frankfurt,Warsaw,12/26/2019,3
+333,Rome,Warsaw,1/7/2019,3
+334,Berlin,Warsaw,2/16/2019,2
+335,Warsaw,Tokio,2/24/2019,1
+336,Rome,New York,7/17/2019,3
+337,Paris,Chicago,2/18/2019,2
+338,Warsaw,Katowice,8/25/2019,3
+339,Berlin,New York,1/30/2019,4
+340,New York,London,9/14/2019,5
+341,London,Tokio,9/22/2019,1
+342,New York,New York,10/24/2019,2
+343,London,Katowice,6/9/2019,1
+344,Katowice,Paris,5/9/2019,1
+345,Chicago,London,12/15/2019,1
+346,Tokio,Frankfurt,3/22/2019,1
+347,New York,Katowice,1/9/2019,4
+348,Paris,Tokio,2/9/2019,3
+349,Warsaw,Rome,7/16/2019,2
+350,Katowice,Tokio,11/4/2019,3
+351,Chicago,Berlin,1/26/2019,1
+352,Warsaw,London,11/4/2019,5
+353,London,London,12/27/2019,3
+354,Warsaw,Chicago,1/31/2019,3
+355,Paris,New York,8/7/2019,3
+356,Frankfurt,Chicago,11/22/2019,1
+357,New York,Rome,5/4/2019,5
+358,London,Katowice,3/9/2019,1
+359,Katowice,London,7/27/2019,2
+360,Katowice,Berlin,3/25/2019,4
+361,Frankfurt,Katowice,11/30/2019,2
+362,Paris,Katowice,6/3/2019,3
+363,Berlin,Frankfurt,8/15/2019,5
+364,Frankfurt,Tokio,8/24/2019,4
+365,Tokio,Katowice,4/28/2019,4
+366,Katowice,Paris,11/11/2019,4
+367,Frankfurt,Chicago,5/10/2019,3
+368,Rome,Warsaw,6/12/2019,2
+369,Paris,Katowice,8/17/2019,3
+370,Rome,Frankfurt,2/21/2019,1
+371,New York,Tokio,5/17/2019,1
+372,Frankfurt,New York,4/30/2019,3
+373,London,Paris,6/17/2019,4
+374,Paris,Chicago,8/21/2019,2
+375,New York,New York,5/10/2019,1
+376,Paris,Chicago,9/1/2019,1
+377,Warsaw,Chicago,12/4/2019,3
+378,New York,Katowice,8/15/2019,3
+379,London,London,12/2/2019,5
+380,Katowice,Tokio,1/21/2019,1
+381,Warsaw,Tokio,5/23/2019,4
+382,New York,London,9/8/2019,4
+383,Warsaw,Paris,12/8/2019,5
+384,Chicago,Katowice,1/1/2019,3
+385,Berlin,Katowice,8/7/2019,2
+386,Katowice,London,4/24/2019,5
+387,Frankfurt,Paris,2/12/2019,2
+388,New York,Tokio,1/11/2019,1
+389,Berlin,London,2/9/2019,4
+390,London,Tokio,5/19/2019,3
+391,Frankfurt,Tokio,1/9/2019,1
+392,Berlin,Chicago,9/3/2019,1
+393,New York,Berlin,8/12/2019,2
+394,Frankfurt,Chicago,8/27/2019,1
+395,Warsaw,Rome,3/12/2019,1
+396,Berlin,Rome,6/28/2019,2
+397,Tokio,Frankfurt,11/18/2019,1
+398,Katowice,Katowice,11/24/2019,3
+399,Frankfurt,Rome,2/16/2019,1
+400,Tokio,New York,2/16/2019,4
+401,Tokio,Katowice,12/25/2019,2
+402,Berlin,Katowice,4/26/2019,1
+403,Chicago,Chicago,2/13/2019,3
+404,Rome,Berlin,11/3/2019,5
+405,London,New York,3/2/2019,1
+406,London,Katowice,3/24/2019,4
+407,Warsaw,Berlin,12/24/2019,1
+408,Paris,Katowice,2/8/2019,1
+409,Katowice,Paris,9/12/2019,5
+410,New York,Rome,8/29/2019,5
+411,New York,Katowice,9/7/2019,5
+412,Katowice,Warsaw,5/8/2019,2
+413,Rome,London,7/12/2019,2
+414,London,London,4/6/2019,2
+415,Warsaw,Paris,2/7/2019,1
+416,Rome,Warsaw,4/29/2019,5
+417,Paris,Katowice,6/24/2019,3
+418,Warsaw,Katowice,6/30/2019,3
+419,Berlin,Rome,5/29/2019,5
+420,Katowice,Rome,5/13/2019,3
+421,Chicago,Rome,11/2/2019,3
+422,London,New York,11/14/2019,3
+423,Katowice,Paris,4/4/2019,1
+424,Warsaw,Berlin,9/28/2019,3
+425,Rome,Rome,7/16/2019,4
+426,Paris,New York,8/12/2019,4
+427,New York,Tokio,7/4/2019,1
+428,Chicago,Katowice,6/3/2019,3
+429,Tokio,Chicago,12/14/2019,4
+430,Katowice,Frankfurt,8/17/2019,5
+431,London,Chicago,10/10/2019,5
+432,Berlin,Frankfurt,2/27/2019,2
+433,London,Berlin,8/10/2019,2
+434,New York,Warsaw,10/18/2019,3
+435,Tokio,London,5/10/2019,1
+436,London,Frankfurt,3/14/2019,2
+437,Chicago,New York,1/12/2019,2
+438,New York,Warsaw,10/19/2019,2
+439,Chicago,Paris,10/22/2019,3
+440,Warsaw,Katowice,1/2/2019,2
+441,Chicago,Rome,8/30/2019,4
+442,Tokio,Frankfurt,6/30/2019,5
+443,Rome,Frankfurt,7/1/2019,1
+444,Rome,Berlin,8/10/2019,1
+445,Chicago,New York,9/5/2019,2
+446,London,Warsaw,4/13/2019,3
+447,New York,Chicago,11/7/2019,5
+448,Frankfurt,London,3/30/2019,1
+449,Warsaw,Chicago,4/7/2019,4
+450,Rome,London,12/11/2019,5
+451,Katowice,Frankfurt,8/16/2019,1
+452,Paris,Chicago,3/3/2019,2
+453,Warsaw,Rome,2/24/2019,5
+454,Rome,Chicago,2/21/2019,2
+455,Katowice,Paris,12/6/2019,1
+456,Tokio,Frankfurt,2/1/2019,4
+457,Katowice,Warsaw,7/1/2019,4
+458,Rome,Warsaw,8/2/2019,3
+459,Rome,Warsaw,1/10/2019,1
+460,Tokio,London,6/30/2019,2
+461,Rome,Chicago,5/9/2019,2
+462,Tokio,Tokio,11/24/2019,5
+463,Paris,New York,1/14/2019,3
+464,Frankfurt,Paris,6/16/2019,2
+465,Rome,Tokio,11/2/2019,2
+466,London,Chicago,10/29/2019,5
+467,Chicago,Katowice,2/6/2019,2
+468,New York,Katowice,7/11/2019,3
+469,Katowice,New York,10/14/2019,3
+470,New York,Tokio,9/20/2019,1
+471,Warsaw,London,7/10/2019,1
+472,Rome,Chicago,4/1/2019,4
+473,Paris,New York,11/3/2019,1
+474,Rome,Warsaw,7/5/2019,3
+475,Frankfurt,Warsaw,12/1/2019,2
+476,Katowice,Berlin,1/17/2019,3
+477,Chicago,Chicago,5/9/2019,5
+478,Warsaw,Frankfurt,7/24/2019,4
+479,Tokio,Warsaw,1/23/2019,3
+480,London,Paris,11/4/2019,2
+481,Katowice,Chicago,3/15/2019,3
+482,New York,Tokio,12/18/2019,2
+483,Katowice,Berlin,10/26/2019,2
+484,Frankfurt,Frankfurt,3/26/2019,4
+485,Katowice,London,6/2/2019,5
+486,Chicago,Warsaw,1/4/2019,3
+487,New York,Chicago,6/4/2019,1
+488,Rome,Warsaw,5/26/2019,3
+489,Katowice,Katowice,11/23/2019,1
+490,Chicago,Frankfurt,2/19/2019,3
+491,Rome,Katowice,6/7/2019,4
+492,Chicago,Warsaw,12/22/2019,1
+493,Berlin,London,12/18/2019,5
+494,Chicago,Frankfurt,5/3/2019,1
+495,Warsaw,Chicago,11/14/2019,1
+496,Tokio,Warsaw,6/14/2019,3
+497,Katowice,Chicago,1/18/2019,4
+498,Warsaw,Chicago,2/19/2019,4
+499,Tokio,Chicago,9/25/2019,4
+500,London,London,7/21/2019,1
+501,New York,Paris,11/24/2019,2
+502,Paris,London,5/29/2019,4
+503,Rome,London,12/26/2019,1
+504,Frankfurt,Berlin,8/25/2019,2
+505,Frankfurt,Warsaw,4/17/2019,2
+506,Frankfurt,Frankfurt,6/27/2019,5
+507,Tokio,Berlin,12/16/2019,4
+508,Chicago,Frankfurt,6/17/2019,2
+509,Frankfurt,Rome,10/2/2019,5
+510,Chicago,Warsaw,8/14/2019,4
+511,Rome,Rome,12/29/2019,4
+512,Berlin,Paris,9/24/2019,4
+513,Paris,London,2/3/2019,1
+514,New York,Rome,7/21/2019,3
+515,Chicago,Paris,4/19/2019,1
+516,Katowice,New York,4/2/2019,3
+517,Paris,Katowice,11/6/2019,2
+518,Tokio,Tokio,7/25/2019,2
+519,Rome,Chicago,6/7/2019,2
+520,Chicago,London,5/4/2019,5
+521,New York,Warsaw,9/4/2019,1
+522,Katowice,London,11/13/2019,3
+523,Rome,Katowice,12/27/2019,4
+524,London,Frankfurt,2/11/2019,5
+525,Paris,Frankfurt,9/12/2019,2
+526,Rome,London,9/28/2019,5
+527,Katowice,Katowice,5/13/2019,3
+528,New York,Berlin,3/20/2019,5
+529,Chicago,Frankfurt,6/12/2019,4
+530,Berlin,Katowice,7/8/2019,4
+531,Katowice,Rome,7/29/2019,1
+532,Berlin,New York,6/4/2019,4
+533,New York,Rome,12/30/2019,4
+534,Frankfurt,Frankfurt,1/10/2019,3
+535,Chicago,London,8/25/2019,4
+536,Paris,Tokio,10/5/2019,5
+537,Tokio,Paris,8/15/2019,3
+538,Katowice,Paris,8/30/2019,3
+539,Warsaw,Paris,12/13/2019,4
+540,Katowice,London,4/11/2019,1
+541,Frankfurt,Katowice,12/19/2019,4
+542,Katowice,Frankfurt,9/24/2019,4
+543,Rome,Tokio,3/26/2019,1
+544,London,Tokio,12/30/2019,5
+545,New York,New York,8/4/2019,1
+546,Warsaw,New York,9/1/2019,4
+547,New York,Chicago,2/3/2019,4
+548,Berlin,Rome,11/17/2019,2
+549,Frankfurt,Berlin,9/28/2019,3
+550,Rome,Tokio,3/25/2019,2
+551,Rome,New York,9/21/2019,1
+552,Berlin,New York,12/4/2019,4
+553,Berlin,Warsaw,1/4/2019,2
+554,Katowice,Chicago,8/26/2019,5
+555,Rome,Tokio,10/19/2019,1
+556,New York,Chicago,10/27/2019,4
+557,Frankfurt,New York,6/22/2019,1
+558,Rome,Katowice,8/26/2019,4
+559,London,London,5/8/2019,5
+560,London,London,10/12/2019,2
+561,Paris,Paris,5/28/2019,1
+562,Frankfurt,Berlin,11/7/2019,4
+563,Katowice,Katowice,12/9/2019,3
+564,London,Paris,10/26/2019,5
+565,London,Chicago,12/30/2019,3
+566,Berlin,Tokio,4/22/2019,1
+567,Paris,Chicago,5/19/2019,4
+568,Rome,London,6/19/2019,2
+569,New York,Warsaw,11/14/2019,1
+570,Tokio,Paris,10/27/2019,3
+571,Frankfurt,Katowice,7/23/2019,5
+572,Warsaw,Rome,7/20/2019,1
+573,Frankfurt,Katowice,5/13/2019,2
+574,Rome,Frankfurt,12/12/2019,2
+575,Paris,Paris,3/14/2019,5
+576,Katowice,Paris,12/21/2019,1
+577,Berlin,Warsaw,10/21/2019,4
+578,Frankfurt,Chicago,10/30/2019,1
+579,Paris,London,1/15/2019,5
+580,Katowice,Warsaw,2/12/2019,3
+581,New York,Berlin,5/30/2019,1
+582,Chicago,Paris,12/15/2019,3
+583,Warsaw,Frankfurt,4/12/2019,1
+584,Paris,Berlin,7/27/2019,3
+585,Berlin,New York,6/25/2019,5
+586,Katowice,Tokio,6/24/2019,5
+587,Warsaw,Rome,8/5/2019,4
+588,London,Katowice,9/18/2019,4
+589,Berlin,New York,1/23/2019,5
+590,Tokio,Chicago,11/10/2019,3
+591,Tokio,Katowice,11/12/2019,1
+592,Rome,Katowice,4/25/2019,4
+593,Berlin,Katowice,6/29/2019,5
+594,Berlin,Paris,7/26/2019,3
+595,Berlin,Rome,4/10/2019,2
+596,Katowice,Chicago,9/9/2019,2
+597,Tokio,Katowice,7/20/2019,5
+598,Paris,Chicago,7/23/2019,2
+599,Berlin,Rome,4/9/2019,5
+600,Tokio,New York,8/4/2019,4
+601,Warsaw,Katowice,6/1/2019,4
+602,New York,Tokio,3/14/2019,1
+603,Frankfurt,New York,11/14/2019,1
+604,Katowice,Rome,11/29/2019,2
+605,Chicago,Berlin,8/15/2019,4
+606,Paris,Berlin,9/23/2019,1
+607,London,London,6/8/2019,5
+608,Paris,Paris,1/29/2019,3
+609,Frankfurt,Katowice,1/1/2019,1
+610,Frankfurt,Frankfurt,6/21/2019,4
+611,Chicago,Paris,2/6/2019,3
+612,Chicago,Katowice,1/3/2019,1
+613,Warsaw,Rome,2/8/2019,1
+614,Paris,Berlin,4/7/2019,5
+615,Tokio,London,8/9/2019,2
+616,New York,Katowice,9/6/2019,4
+617,Berlin,Frankfurt,6/24/2019,4
+618,New York,London,11/27/2019,3
+619,Tokio,New York,8/22/2019,2
+620,Katowice,New York,7/17/2019,5
+621,Tokio,Katowice,8/29/2019,5
+622,New York,Frankfurt,9/30/2019,3
+623,Berlin,London,4/21/2019,5
+624,Tokio,London,4/25/2019,1
+625,New York,Rome,12/9/2019,5
+626,Paris,New York,1/27/2019,1
+627,Rome,London,11/13/2019,2
+628,Frankfurt,London,8/15/2019,4
+629,Rome,Berlin,9/24/2019,3
+630,Rome,New York,8/13/2019,2
+631,Paris,London,6/26/2019,5
+632,Frankfurt,Rome,8/26/2019,5
+633,Berlin,Frankfurt,6/5/2019,5
+634,New York,Rome,11/22/2019,5
+635,Chicago,Rome,9/22/2019,1
+636,Paris,New York,11/6/2019,3
+637,Chicago,Rome,10/15/2019,3
+638,Berlin,Tokio,7/31/2019,4
+639,New York,Katowice,10/10/2019,2
+640,Rome,Paris,11/25/2019,3
+641,Paris,Warsaw,9/17/2019,5
+642,Frankfurt,Chicago,8/21/2019,1
+643,Katowice,Warsaw,6/16/2019,2
+644,Rome,Chicago,9/25/2019,4
+645,Warsaw,Tokio,6/2/2019,2
+646,Warsaw,Rome,7/16/2019,5
+647,Rome,Katowice,6/14/2019,5
+648,Warsaw,London,9/2/2019,2
+649,Paris,Frankfurt,2/7/2019,3
+650,Katowice,Katowice,2/16/2019,1
+651,Frankfurt,Rome,12/20/2019,1
+652,Rome,Chicago,8/29/2019,3
+653,Frankfurt,Paris,2/26/2019,5
+654,Frankfurt,Frankfurt,2/23/2019,1
+655,Rome,Frankfurt,10/18/2019,5
+656,Tokio,Frankfurt,11/4/2019,1
+657,Warsaw,London,8/21/2019,1
+658,Frankfurt,Rome,1/16/2019,4
+659,Frankfurt,Warsaw,12/23/2019,5
+660,Rome,London,1/31/2019,4
+661,Berlin,Katowice,7/3/2019,4
+662,Warsaw,Katowice,5/5/2019,2
+663,Chicago,New York,2/22/2019,4
+664,New York,Tokio,11/10/2019,2
+665,Chicago,London,10/13/2019,4
+666,New York,Berlin,4/15/2019,2
+667,Warsaw,Paris,10/11/2019,5
+668,Tokio,Katowice,8/4/2019,2
+669,London,Chicago,5/1/2019,3
+670,Frankfurt,Warsaw,4/13/2019,1
+671,Warsaw,Frankfurt,10/15/2019,2
+672,Berlin,Frankfurt,6/3/2019,4
+673,Chicago,Warsaw,1/8/2019,2
+674,New York,New York,12/9/2019,2
+675,Paris,Paris,9/5/2019,2
+676,Frankfurt,London,12/28/2019,5
+677,Tokio,Tokio,6/20/2019,2
+678,Tokio,Chicago,1/17/2019,2
+679,Frankfurt,Chicago,6/17/2019,2
+680,Warsaw,Tokio,9/19/2019,4
+681,New York,Berlin,9/24/2019,1
+682,London,Paris,7/8/2019,1
+683,Warsaw,Tokio,8/21/2019,2
+684,Berlin,Berlin,1/18/2019,4
+685,Katowice,Frankfurt,2/17/2019,1
+686,Rome,Paris,8/15/2019,5
+687,London,Berlin,1/21/2019,1
+688,Frankfurt,Warsaw,2/3/2019,2
+689,New York,Chicago,11/28/2019,4
+690,Paris,Chicago,3/26/2019,3
+691,New York,Rome,4/11/2019,3
+692,New York,Tokio,2/8/2019,2
+693,London,Paris,9/23/2019,1
+694,Berlin,Paris,4/15/2019,3
+695,Katowice,Katowice,1/29/2019,3
+696,London,Tokio,6/23/2019,5
+697,Berlin,Chicago,3/8/2019,4
+698,Frankfurt,Berlin,12/8/2019,3
+699,Warsaw,Tokio,12/22/2019,3
+700,New York,Tokio,6/3/2019,5
+701,Tokio,Tokio,1/4/2019,2
+702,Warsaw,Katowice,8/22/2019,4
+703,Rome,Paris,5/15/2019,4
+704,Chicago,Rome,10/14/2019,3
+705,Chicago,Katowice,4/10/2019,2
+706,Frankfurt,Paris,5/15/2019,5
+707,Katowice,Rome,11/30/2019,1
+708,Warsaw,Frankfurt,12/4/2019,3
+709,Tokio,Warsaw,1/7/2019,3
+710,Tokio,Paris,1/28/2019,3
+711,Katowice,Chicago,10/27/2019,1
+712,New York,New York,7/18/2019,4
+713,Paris,Paris,8/6/2019,2
+714,Katowice,Katowice,2/17/2019,5
+715,Chicago,Warsaw,5/3/2019,3
+716,Katowice,Chicago,7/21/2019,2
+717,Tokio,Berlin,4/1/2019,1
+718,Tokio,Berlin,3/28/2019,3
+719,New York,London,12/23/2019,5
+720,Paris,Tokio,12/1/2019,2
+721,Paris,Paris,10/20/2019,5
+722,Paris,Berlin,6/17/2019,5
+723,Warsaw,Berlin,1/22/2019,3
+724,Berlin,Berlin,2/6/2019,4
+725,Katowice,Berlin,2/25/2019,5
+726,Chicago,New York,7/19/2019,4
+727,Tokio,Chicago,9/5/2019,4
+728,Paris,Frankfurt,6/24/2019,1
+729,Frankfurt,Berlin,8/28/2019,4
+730,Warsaw,Katowice,9/3/2019,1
+731,Berlin,Tokio,6/3/2019,3
+732,London,Rome,9/24/2019,3
+733,Warsaw,Frankfurt,2/21/2019,2
+734,Chicago,Berlin,6/29/2019,5
+735,Rome,Chicago,11/29/2019,3
+736,London,New York,10/11/2019,2
+737,Katowice,Frankfurt,7/22/2019,4
+738,Katowice,Katowice,11/22/2019,4
+739,London,Tokio,10/31/2019,4
+740,Chicago,Frankfurt,3/18/2019,4
+741,New York,Berlin,11/1/2019,5
+742,Katowice,Rome,8/14/2019,5
+743,Frankfurt,London,6/22/2019,4
+744,Paris,Frankfurt,10/22/2019,5
+745,Frankfurt,Paris,12/1/2019,3
+746,Tokio,London,6/1/2019,5
+747,Warsaw,Warsaw,2/14/2019,4
+748,Warsaw,Tokio,1/30/2019,3
+749,Warsaw,London,2/2/2019,1
+750,Berlin,Warsaw,9/17/2019,3
+751,Frankfurt,Tokio,9/6/2019,4
+752,New York,New York,8/22/2019,1
+753,Tokio,London,12/28/2019,2
+754,Chicago,London,6/16/2019,3
+755,New York,London,8/6/2019,3
+756,Paris,Rome,3/25/2019,4
+757,Frankfurt,Frankfurt,1/20/2019,5
+758,Paris,Rome,4/16/2019,3
+759,Tokio,New York,11/30/2019,4
+760,Rome,London,4/1/2019,4
+761,Berlin,Tokio,1/28/2019,3
+762,Tokio,London,2/5/2019,2
+763,London,London,3/27/2019,1
+764,Paris,Warsaw,9/23/2019,2
+765,Tokio,Katowice,9/22/2019,5
+766,Katowice,Katowice,12/9/2019,5
+767,Frankfurt,Paris,6/8/2019,5
+768,Katowice,Frankfurt,9/7/2019,5
+769,London,Rome,7/31/2019,5
+770,Warsaw,New York,4/3/2019,1
+771,Rome,Tokio,2/3/2019,3
+772,Rome,London,7/21/2019,2
+773,New York,Chicago,8/13/2019,4
+774,Rome,Tokio,2/18/2019,3
+775,Berlin,New York,7/30/2019,4
+776,Berlin,Paris,4/6/2019,2
+777,Katowice,Katowice,4/12/2019,5
+778,Katowice,Paris,7/9/2019,3
+779,London,Berlin,7/19/2019,1
+780,London,Berlin,7/20/2019,1
+781,Berlin,Chicago,1/5/2019,3
+782,Paris,Frankfurt,5/30/2019,1
+783,Paris,Tokio,6/27/2019,1
+784,Paris,Berlin,12/6/2019,4
+785,New York,Katowice,7/24/2019,5
+786,Warsaw,London,6/21/2019,5
+787,Paris,Chicago,6/29/2019,2
+788,Katowice,London,11/14/2019,4
+789,Paris,Rome,7/4/2019,3
+790,Warsaw,Katowice,7/3/2019,4
+791,Berlin,London,3/31/2019,3
+792,Warsaw,Katowice,5/30/2019,2
+793,Tokio,Warsaw,4/28/2019,3
+794,Warsaw,Paris,6/26/2019,2
+795,Berlin,Frankfurt,1/18/2019,3
+796,Paris,Berlin,7/7/2019,1
+797,Katowice,London,4/13/2019,1
+798,Berlin,Rome,1/26/2019,1
+799,New York,Frankfurt,10/9/2019,1
+800,Berlin,Warsaw,1/31/2019,1
+801,Paris,Katowice,4/4/2019,5
+802,Tokio,Frankfurt,9/23/2019,5
+803,New York,Paris,7/7/2019,2
+804,New York,London,4/14/2019,2
+805,Chicago,Paris,7/1/2019,4
+806,Tokio,Rome,1/31/2019,1
+807,New York,London,8/7/2019,1
+808,Warsaw,Berlin,12/6/2019,2
+809,Chicago,Paris,2/21/2019,2
+810,Chicago,Katowice,8/3/2019,5
+811,Chicago,Tokio,8/1/2019,2
+812,Tokio,Berlin,9/27/2019,2
+813,Warsaw,Warsaw,5/23/2019,3
+814,Frankfurt,New York,7/19/2019,3
+815,Tokio,Paris,2/14/2019,2
+816,Katowice,Rome,12/16/2019,1
+817,Tokio,Tokio,3/15/2019,1
+818,Tokio,Chicago,1/22/2019,2
+819,Chicago,Rome,6/13/2019,2
+820,Tokio,New York,1/13/2019,2
+821,Rome,Warsaw,11/12/2019,1
+822,New York,Rome,12/21/2019,5
+823,Paris,Chicago,5/19/2019,5
+824,Rome,Tokio,7/19/2019,2
+825,Katowice,Warsaw,10/11/2019,2
+826,Rome,Frankfurt,12/27/2019,1
+827,Chicago,Rome,10/22/2019,4
+828,Paris,Warsaw,6/29/2019,4
+829,Rome,Katowice,10/25/2019,2
+830,Warsaw,Tokio,12/14/2019,1
+831,London,Chicago,4/16/2019,4
+832,Paris,Frankfurt,2/2/2019,3
+833,Berlin,Katowice,4/23/2019,1
+834,Warsaw,Chicago,5/15/2019,4
+835,Warsaw,Frankfurt,12/27/2019,5
+836,New York,New York,4/19/2019,4
+837,Warsaw,New York,11/9/2019,4
+838,Rome,Warsaw,7/10/2019,2
+839,New York,Warsaw,11/2/2019,1
+840,Warsaw,Warsaw,2/9/2019,4
+841,New York,Katowice,8/1/2019,2
+842,New York,New York,11/22/2019,4
+843,London,Warsaw,5/22/2019,1
+844,Chicago,Warsaw,8/3/2019,3
+845,New York,Katowice,2/9/2019,1
+846,Paris,Katowice,3/17/2019,1
+847,New York,Chicago,2/27/2019,5
+848,Tokio,Chicago,7/22/2019,3
+849,London,Rome,10/17/2019,5
+850,Paris,Paris,5/12/2019,2
+851,Berlin,Katowice,5/14/2019,4
+852,London,Berlin,4/13/2019,4
+853,Tokio,Katowice,2/24/2019,5
+854,Chicago,Rome,3/21/2019,2
+855,London,Tokio,1/21/2019,4
+856,Katowice,New York,6/23/2019,5
+857,London,Chicago,12/7/2019,5
+858,Rome,Warsaw,1/8/2019,4
+859,Berlin,Katowice,10/18/2019,2
+860,Chicago,Paris,3/21/2019,2
+861,Berlin,Frankfurt,8/14/2019,4
+862,New York,Frankfurt,3/4/2019,2
+863,Warsaw,Katowice,5/25/2019,3
+864,Berlin,Chicago,9/22/2019,5
+865,Rome,New York,2/7/2019,1
+866,Warsaw,Berlin,11/30/2019,4
+867,Paris,London,9/30/2019,4
+868,Rome,Rome,9/18/2019,2
+869,Rome,New York,9/24/2019,5
+870,Rome,Rome,7/13/2019,5
+871,London,London,10/8/2019,2
+872,Paris,Tokio,3/19/2019,2
+873,London,New York,4/24/2019,4
+874,Katowice,Warsaw,12/14/2019,4
+875,Paris,Tokio,6/1/2019,2
+876,London,Frankfurt,9/2/2019,1
+877,Warsaw,Tokio,9/8/2019,1
+878,Berlin,London,2/19/2019,2
+879,Chicago,Katowice,8/12/2019,3
+880,Tokio,Tokio,2/17/2019,2
+881,Frankfurt,London,10/1/2019,1
+882,Warsaw,Rome,12/11/2019,1
+883,Tokio,London,7/3/2019,3
+884,Rome,Paris,7/20/2019,5
+885,Chicago,Rome,5/23/2019,4
+886,Berlin,Berlin,12/17/2019,4
+887,New York,Rome,12/21/2019,3
+888,Tokio,London,12/6/2019,2
+889,Paris,Chicago,10/2/2019,3
+890,Tokio,New York,8/2/2019,1
+891,Chicago,Berlin,12/4/2019,5
+892,Tokio,New York,3/9/2019,2
+893,Berlin,Katowice,9/19/2019,2
+894,Frankfurt,Paris,9/20/2019,2
+895,Katowice,Katowice,8/18/2019,3
+896,Warsaw,Tokio,5/2/2019,4
+897,Berlin,New York,10/7/2019,3
+898,Tokio,Paris,1/5/2019,1
+899,Rome,Tokio,9/13/2019,5
+900,Warsaw,London,8/21/2019,4
+901,Frankfurt,Frankfurt,8/15/2019,5
+902,Berlin,Paris,7/8/2019,5
+903,Tokio,Tokio,9/12/2019,1
+904,Warsaw,Tokio,10/22/2019,1
+905,Berlin,Frankfurt,10/29/2019,5
+906,Paris,Katowice,10/23/2019,3
+907,Katowice,Paris,6/5/2019,4
+908,Chicago,London,5/15/2019,1
+909,Paris,Berlin,4/23/2019,1
+910,Frankfurt,Tokio,7/20/2019,3
+911,Frankfurt,Warsaw,8/2/2019,1
+912,Tokio,Chicago,4/25/2019,5
+913,Warsaw,Rome,9/15/2019,3
+914,Rome,London,9/27/2019,3
+915,Paris,New York,7/22/2019,5
+916,Tokio,New York,6/20/2019,5
+917,Warsaw,Tokio,11/3/2019,1
+918,Chicago,New York,4/11/2019,2
+919,Katowice,Berlin,3/17/2019,5
+920,Paris,New York,11/29/2019,1
+921,Tokio,Chicago,3/30/2019,5
+922,Tokio,Warsaw,7/27/2019,2
+923,Chicago,Paris,12/17/2019,3
+924,Frankfurt,London,11/19/2019,4
+925,Chicago,Chicago,5/1/2019,3
+926,Paris,Berlin,4/11/2019,1
+927,Tokio,Tokio,6/30/2019,5
+928,Paris,New York,3/16/2019,3
+929,Rome,Frankfurt,7/13/2019,3
+930,New York,Berlin,3/15/2019,2
+931,London,Chicago,3/28/2019,1
+932,Berlin,Frankfurt,11/4/2019,3
+933,Katowice,London,11/3/2019,1
+934,Rome,Berlin,11/8/2019,5
+935,Paris,Tokio,5/5/2019,5
+936,New York,Tokio,11/16/2019,2
+937,Frankfurt,Paris,1/31/2019,5
+938,Frankfurt,Rome,12/7/2019,2
+939,Katowice,Warsaw,9/23/2019,2
+940,Katowice,Frankfurt,7/21/2019,2
+941,London,Paris,12/29/2019,4
+942,Katowice,Katowice,5/28/2019,5
+943,Katowice,Katowice,7/16/2019,1
+944,Rome,Warsaw,8/7/2019,3
+945,Warsaw,Warsaw,5/9/2019,5
+946,Berlin,Frankfurt,8/2/2019,5
+947,Tokio,London,1/22/2019,2
+948,Berlin,New York,1/30/2019,2
+949,London,Berlin,7/26/2019,1
+950,London,Paris,6/13/2019,3
+951,Tokio,London,9/15/2019,1
+952,Tokio,Paris,5/2/2019,5
+953,Katowice,Paris,10/1/2019,5
+954,Frankfurt,Rome,7/28/2019,2
+955,Berlin,Chicago,7/14/2019,5
+956,Warsaw,Warsaw,7/12/2019,1
+957,Rome,Berlin,10/3/2019,1
+958,Rome,Paris,7/30/2019,1
+959,London,Chicago,6/14/2019,5
+960,Berlin,Frankfurt,7/8/2019,5
+961,Berlin,New York,7/18/2019,2
+962,Berlin,Rome,5/9/2019,1
+963,Rome,Frankfurt,5/23/2019,5
+964,Chicago,London,5/19/2019,1
+965,Katowice,Rome,8/13/2019,4
+966,Chicago,Frankfurt,4/18/2019,2
+967,Chicago,Frankfurt,5/23/2019,1
+968,Katowice,Frankfurt,11/2/2019,4
+969,Warsaw,New York,9/28/2019,4
+970,London,New York,1/30/2019,5
+971,Frankfurt,Tokio,1/20/2019,1
+972,London,Katowice,10/18/2019,1
+973,Frankfurt,Rome,3/24/2019,4
+974,Berlin,Paris,2/8/2019,5
+975,Frankfurt,Tokio,10/31/2019,1
+976,New York,Katowice,12/2/2019,2
+977,Warsaw,London,11/2/2019,4
+978,London,Warsaw,9/28/2019,3
+979,Warsaw,Rome,7/29/2019,4
+980,Rome,Tokio,8/19/2019,4
+981,Warsaw,Tokio,4/16/2019,4
+982,Katowice,Frankfurt,4/19/2019,4
+983,Katowice,Rome,6/7/2019,2
+984,Rome,New York,4/17/2019,5
+985,New York,London,11/9/2019,1
+986,Katowice,London,4/24/2019,5
+987,London,London,1/21/2019,1
+988,Katowice,Katowice,6/30/2019,4
+989,Rome,Frankfurt,1/10/2019,5
+990,Katowice,Berlin,5/18/2019,4
+991,London,London,10/14/2019,4
+992,Chicago,Berlin,10/13/2019,4
+993,New York,Tokio,6/19/2019,2
+994,Chicago,Paris,8/20/2019,2
+995,Tokio,Chicago,6/9/2019,4
+996,London,Katowice,7/19/2019,1
+997,Paris,London,7/4/2019,4
+998,London,London,12/15/2019,4
+999,Frankfurt,Warsaw,9/30/2019,4
+1000,Paris,Katowice,5/6/2019,4

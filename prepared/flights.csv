@@ -1,0 +1,2001 @@
+flight_id,airplane_id,cityA,cityB,flight_dt,distance
+1,5,Berlin,Warsaw,2019-05-13,518
+2,6,Frankfurt,Warsaw,2018-09-30,891
+3,9,Paris,Katowice,2018-01-11,1212
+4,3,Warsaw,Chicago,2018-03-08,7522
+5,10,Chicago,New York,2018-09-08,1146
+6,3,Berlin,Frankfurt,2019-08-09,424
+7,2,New York,Berlin,2019-02-04,6394
+8,10,New York,Tokio,2018-10-12,10864
+9,2,Frankfurt,Chicago,2018-07-28,6974
+10,9,Katowice,New York,2019-06-04,6857
+11,5,Tokio,Katowice,2018-04-20,8846
+12,10,Paris,Chicago,2019-04-17,6660
+13,9,Chicago,Paris,2019-08-03,6660
+14,9,Berlin,Rome,2018-12-25,1185
+15,9,Warsaw,Rome,2018-05-09,1318
+16,1,London,Paris,2019-04-11,344
+17,9,Chicago,Rome,2019-02-11,7749
+18,8,Berlin,Tokio,2019-05-09,8933
+19,1,Katowice,New York,2019-06-14,6857
+20,8,New York,Warsaw,2019-05-04,6864
+21,2,Berlin,Paris,2019-12-25,879
+22,2,Warsaw,Katowice,2019-06-09,259
+23,4,Berlin,Paris,2018-09-24,879
+24,9,Tokio,Berlin,2018-04-20,8933
+25,9,Chicago,Berlin,2019-09-28,7093
+26,1,Tokio,Paris,2018-08-18,9730
+27,3,London,Berlin,2019-01-02,933
+28,4,London,Chicago,2019-09-03,6362
+29,3,Warsaw,Frankfurt,2019-06-27,891
+30,3,Berlin,Tokio,2018-06-16,8933
+31,1,Tokio,Chicago,2019-04-12,10152
+32,3,Frankfurt,Katowice,2019-09-26,737
+33,2,Warsaw,Paris,2019-10-14,1368
+34,6,Warsaw,Tokio,2018-01-21,8595
+35,6,Rome,Warsaw,2018-09-30,1318
+36,7,Paris,Rome,2018-01-30,1105
+37,4,Berlin,London,2019-08-10,933
+38,6,Paris,New York,2019-12-11,5845
+39,6,Chicago,New York,2019-05-21,1146
+40,5,Paris,New York,2019-01-01,5845
+41,10,Paris,Frankfurt,2019-07-06,479
+42,5,Berlin,New York,2018-08-27,6394
+43,5,Tokio,Berlin,2019-11-08,8933
+44,7,London,Frankfurt,2019-07-22,639
+45,6,New York,Rome,2019-10-06,6897
+46,2,Chicago,Frankfurt,2018-02-12,6974
+47,1,Rome,Chicago,2019-08-25,7749
+48,9,New York,Tokio,2018-05-13,10864
+49,3,New York,Chicago,2018-06-18,1146
+50,3,Chicago,Rome,2018-09-01,7749
+51,8,Tokio,Chicago,2019-12-03,10152
+52,10,Warsaw,Frankfurt,2019-06-07,891
+53,1,Frankfurt,London,2018-05-26,639
+54,9,Tokio,Rome,2018-01-15,9874
+55,7,Warsaw,Chicago,2018-06-02,7522
+56,6,Tokio,Warsaw,2019-04-06,8595
+57,7,Rome,Tokio,2019-03-19,9874
+58,10,Paris,London,2019-06-20,344
+59,5,Paris,New York,2019-05-13,5845
+60,1,New York,Rome,2019-03-15,6897
+61,3,Katowice,Rome,2019-12-06,1059
+62,4,Warsaw,London,2019-06-30,1451
+63,5,Berlin,Paris,2019-12-11,879
+64,5,London,Chicago,2018-02-27,6362
+65,3,London,New York,2019-11-27,5578
+66,1,London,New York,2019-01-21,5578
+67,8,Frankfurt,Berlin,2019-12-15,424
+68,4,London,Berlin,2019-12-27,933
+69,2,Rome,Paris,2018-05-29,1105
+70,10,London,Warsaw,2018-09-24,1451
+71,6,Berlin,New York,2019-04-11,6394
+72,3,Warsaw,Paris,2018-02-27,1368
+73,7,New York,Rome,2018-12-09,6897
+74,7,Tokio,Chicago,2018-05-14,10152
+75,3,New York,Katowice,2019-06-17,6857
+76,8,London,Frankfurt,2018-06-11,639
+77,10,Frankfurt,Berlin,2018-01-22,424
+78,2,Paris,Frankfurt,2019-05-18,479
+79,2,Chicago,London,2019-04-07,6362
+80,5,Warsaw,Berlin,2018-06-12,518
+81,2,New York,Paris,2018-09-14,5845
+82,1,London,Warsaw,2019-04-12,1451
+83,3,Katowice,New York,2018-07-29,6857
+84,4,New York,Katowice,2019-09-08,6857
+85,8,Tokio,Warsaw,2019-09-16,8595
+86,6,Berlin,Tokio,2019-04-28,8933
+87,1,Warsaw,Rome,2019-08-27,1318
+88,5,Rome,New York,2018-06-25,6897
+89,9,London,Katowice,2019-03-01,1349
+90,2,Frankfurt,New York,2019-05-10,6211
+91,10,New York,Chicago,2018-01-29,1146
+92,4,Chicago,Katowice,2019-09-07,7556
+93,5,Frankfurt,Warsaw,2018-09-25,891
+94,6,Katowice,Frankfurt,2018-04-07,737
+95,8,New York,London,2019-06-28,5578
+96,3,Rome,Chicago,2018-12-16,7749
+97,2,Chicago,Tokio,2018-07-20,10152
+98,3,Chicago,Tokio,2019-10-19,10152
+99,9,London,Katowice,2018-03-01,1349
+100,4,London,New York,2018-04-25,5578
+101,4,Katowice,Paris,2018-04-17,1212
+102,10,London,Tokio,2018-09-30,9576
+103,2,Paris,Tokio,2019-02-07,9730
+104,9,London,Berlin,2019-02-19,933
+105,4,Chicago,Frankfurt,2018-07-24,6974
+106,2,Rome,Chicago,2018-10-04,7749
+107,9,Warsaw,Katowice,2019-05-21,259
+108,6,New York,Paris,2018-10-31,5845
+109,3,Warsaw,Berlin,2018-06-19,518
+110,5,New York,London,2018-07-25,5578
+111,10,Paris,Warsaw,2018-02-28,1368
+112,9,Paris,Warsaw,2018-08-06,1368
+113,1,Chicago,Katowice,2019-06-04,7556
+114,7,Rome,Paris,2019-02-04,1105
+115,8,Frankfurt,Katowice,2018-05-19,737
+116,10,Rome,Berlin,2019-09-13,1185
+117,9,Katowice,Tokio,2018-03-03,8846
+118,9,Warsaw,New York,2019-08-13,6864
+119,2,Paris,Chicago,2018-03-03,6660
+120,5,Katowice,New York,2019-10-23,6857
+121,1,Paris,New York,2018-03-01,5845
+122,6,New York,Paris,2018-07-30,5845
+123,9,Frankfurt,Tokio,2019-12-05,9349
+124,5,Frankfurt,New York,2018-04-15,6211
+125,4,Tokio,Berlin,2018-08-09,8933
+126,7,Tokio,New York,2019-10-06,10864
+127,5,Warsaw,New York,2018-10-15,6864
+128,10,Warsaw,Rome,2018-02-08,1318
+129,8,Tokio,Katowice,2019-03-06,8846
+130,3,London,Katowice,2018-04-07,1349
+131,6,Berlin,Warsaw,2018-10-01,518
+132,9,Rome,London,2018-07-29,1434
+133,1,London,Chicago,2018-09-09,6362
+134,8,Paris,Chicago,2019-12-11,6660
+135,4,Paris,Chicago,2019-01-13,6660
+136,8,London,New York,2018-05-06,5578
+137,4,Berlin,Tokio,2019-07-07,8933
+138,2,Berlin,New York,2019-03-10,6394
+139,3,Frankfurt,Warsaw,2019-09-15,891
+140,5,London,Chicago,2018-04-05,6362
+141,5,Warsaw,Tokio,2018-05-14,8595
+142,5,Tokio,Paris,2019-01-31,9730
+143,4,Warsaw,Tokio,2019-06-29,8595
+144,2,Chicago,Warsaw,2018-09-29,7522
+145,8,Chicago,New York,2018-09-09,1146
+146,1,Berlin,Frankfurt,2018-06-10,424
+147,6,Berlin,Rome,2019-05-02,1185
+148,2,Katowice,New York,2019-01-22,6857
+149,7,New York,Berlin,2018-06-08,6394
+150,1,Warsaw,London,2019-04-17,1451
+151,4,Rome,Paris,2019-08-13,1105
+152,4,Rome,Katowice,2019-07-14,1059
+153,3,New York,Chicago,2019-12-17,1146
+154,3,Warsaw,Rome,2019-11-08,1318
+155,3,Warsaw,Paris,2019-05-10,1368
+156,7,Berlin,London,2018-03-10,933
+157,1,New York,Chicago,2018-02-17,1146
+158,8,Katowice,Paris,2019-04-19,1212
+159,8,Berlin,New York,2019-12-15,6394
+160,9,Frankfurt,Katowice,2019-09-16,737
+161,3,London,Paris,2019-10-14,344
+162,1,Rome,Paris,2019-03-27,1105
+163,3,Chicago,Katowice,2019-02-01,7556
+164,2,Warsaw,Frankfurt,2019-07-07,891
+165,8,Warsaw,New York,2018-10-16,6864
+166,4,Warsaw,New York,2019-06-05,6864
+167,8,Warsaw,London,2019-03-17,1451
+168,9,Warsaw,Paris,2019-04-14,1368
+169,2,Paris,Chicago,2019-09-06,6660
+170,7,Warsaw,Chicago,2019-07-17,7522
+171,4,New York,Rome,2019-02-23,6897
+172,5,Chicago,Warsaw,2018-12-13,7522
+173,4,Rome,Paris,2018-03-18,1105
+174,4,London,Paris,2019-10-14,344
+175,5,Chicago,Warsaw,2019-07-20,7522
+176,2,Tokio,Katowice,2019-10-20,8846
+177,6,Rome,London,2019-02-06,1434
+178,5,Tokio,Paris,2018-01-01,9730
+179,4,Berlin,Warsaw,2018-10-07,518
+180,3,Chicago,London,2018-03-13,6362
+181,4,Paris,Rome,2019-02-07,1105
+182,3,Warsaw,Paris,2019-03-30,1368
+183,8,New York,Tokio,2018-06-12,10864
+184,4,Katowice,Paris,2019-11-23,1212
+185,6,Paris,Frankfurt,2019-11-28,479
+186,4,Paris,Warsaw,2018-03-20,1368
+187,1,New York,Katowice,2018-06-25,6857
+188,6,Berlin,New York,2019-03-31,6394
+189,9,Tokio,Rome,2018-08-25,9874
+190,9,Rome,Frankfurt,2019-12-28,959
+191,9,Rome,Chicago,2018-07-04,7749
+192,2,Rome,New York,2018-08-12,6897
+193,4,London,New York,2018-04-22,5578
+194,1,Paris,Tokio,2019-06-01,9730
+195,7,Rome,New York,2019-05-19,6897
+196,1,New York,Frankfurt,2018-06-14,6211
+197,6,New York,London,2019-10-19,5578
+198,8,Chicago,Rome,2018-10-20,7749
+199,4,Berlin,Warsaw,2018-01-23,518
+200,1,Katowice,Rome,2018-07-15,1059
+201,8,Paris,New York,2018-05-13,5845
+202,10,Frankfurt,Tokio,2018-09-23,9349
+203,5,Rome,Warsaw,2019-11-10,1318
+204,8,Warsaw,Berlin,2019-11-05,518
+205,2,Paris,Rome,2018-09-05,1105
+206,5,Frankfurt,Katowice,2019-06-28,737
+207,4,New York,Paris,2019-10-11,5845
+208,8,Frankfurt,Katowice,2018-05-11,737
+209,1,New York,Berlin,2019-10-30,6394
+210,4,New York,Frankfurt,2018-10-03,6211
+211,4,Warsaw,Rome,2019-10-15,1318
+212,6,Berlin,Tokio,2018-10-02,8933
+213,4,Katowice,Rome,2019-04-10,1059
+214,8,Chicago,Tokio,2018-05-07,10152
+215,9,Katowice,New York,2019-06-12,6857
+216,7,Paris,Warsaw,2019-07-26,1368
+217,4,Chicago,New York,2018-05-21,1146
+218,10,Frankfurt,New York,2018-11-30,6211
+219,1,Frankfurt,Katowice,2019-09-28,737
+220,2,Chicago,Rome,2019-12-18,7749
+221,7,London,Berlin,2019-06-09,933
+222,6,Rome,Paris,2019-05-06,1105
+223,2,London,Paris,2018-10-04,344
+224,1,Rome,Berlin,2019-06-07,1185
+225,5,Warsaw,Tokio,2018-09-26,8595
+226,3,Berlin,Tokio,2018-01-13,8933
+227,7,Chicago,Rome,2018-06-18,7749
+228,2,London,New York,2018-12-22,5578
+229,3,Berlin,Tokio,2019-07-25,8933
+230,4,New York,Warsaw,2018-10-08,6864
+231,1,Paris,Chicago,2018-02-21,6660
+232,10,Tokio,Frankfurt,2019-08-27,9349
+233,10,Katowice,Chicago,2018-07-15,7556
+234,7,Frankfurt,Rome,2018-05-22,959
+235,3,London,Berlin,2018-05-26,933
+236,6,Tokio,Rome,2019-01-08,9874
+237,7,Frankfurt,London,2018-09-16,639
+238,6,Katowice,Tokio,2018-12-02,8846
+239,3,Chicago,Warsaw,2019-02-16,7522
+240,7,Chicago,Katowice,2019-07-10,7556
+241,6,Frankfurt,Tokio,2018-07-23,9349
+242,7,Paris,Katowice,2019-08-07,1212
+243,4,New York,Warsaw,2018-05-26,6864
+244,2,Katowice,Paris,2019-03-08,1212
+245,7,Rome,Frankfurt,2019-07-05,959
+246,8,Katowice,Paris,2018-05-11,1212
+247,1,Katowice,Berlin,2019-05-30,464
+248,5,Katowice,Paris,2018-11-22,1212
+249,5,Warsaw,Berlin,2019-05-10,518
+250,8,London,Tokio,2019-01-31,9576
+251,1,Frankfurt,Chicago,2019-10-26,6974
+252,6,Frankfurt,Rome,2019-08-06,959
+253,7,Berlin,Warsaw,2018-07-16,518
+254,5,London,New York,2018-05-06,5578
+255,10,Warsaw,Paris,2018-06-14,1368
+256,7,Katowice,Frankfurt,2018-03-30,737
+257,8,Warsaw,London,2018-06-14,1451
+258,3,Berlin,Frankfurt,2018-03-02,424
+259,6,Rome,Frankfurt,2018-05-28,959
+260,5,London,Warsaw,2019-04-14,1451
+261,3,Katowice,Rome,2019-06-18,1059
+262,1,London,Frankfurt,2018-12-28,639
+263,7,Katowice,London,2018-08-02,1349
+264,10,Chicago,Warsaw,2019-12-26,7522
+265,3,Warsaw,Tokio,2018-01-28,8595
+266,3,Paris,Tokio,2019-11-18,9730
+267,10,Chicago,Katowice,2018-08-16,7556
+268,3,Frankfurt,Warsaw,2019-12-03,891
+269,9,Warsaw,Rome,2018-04-30,1318
+270,8,London,Berlin,2018-05-21,933
+271,6,Rome,Katowice,2019-06-10,1059
+272,2,Chicago,Rome,2019-08-29,7749
+273,2,Chicago,Warsaw,2019-02-10,7522
+274,1,Frankfurt,Berlin,2019-06-16,424
+275,1,Tokio,London,2019-06-19,9576
+276,10,Chicago,Frankfurt,2019-07-27,6974
+277,9,New York,Berlin,2018-12-29,6394
+278,6,Chicago,Warsaw,2018-07-25,7522
+279,4,Berlin,Tokio,2019-12-12,8933
+280,10,Paris,Chicago,2018-11-19,6660
+281,1,Warsaw,Tokio,2019-09-08,8595
+282,3,Rome,Warsaw,2018-05-28,1318
+283,7,Katowice,Paris,2019-11-29,1212
+284,8,Berlin,Frankfurt,2019-08-15,424
+285,7,Chicago,Berlin,2019-11-07,7093
+286,8,Chicago,New York,2018-02-25,1146
+287,1,Berlin,London,2018-12-12,933
+288,8,Tokio,Rome,2018-03-09,9874
+289,6,Rome,Frankfurt,2018-06-06,959
+290,10,Frankfurt,Katowice,2019-06-11,737
+291,6,Chicago,Rome,2018-03-28,7749
+292,10,New York,London,2019-05-04,5578
+293,10,Chicago,Warsaw,2019-11-06,7522
+294,5,Tokio,Katowice,2018-12-01,8846
+295,2,Chicago,Rome,2018-09-02,7749
+296,2,Frankfurt,Warsaw,2018-01-21,891
+297,1,Frankfurt,Warsaw,2019-12-04,891
+298,8,Warsaw,Berlin,2018-09-10,518
+299,5,London,Tokio,2019-10-18,9576
+300,4,Berlin,Warsaw,2019-12-25,518
+301,9,New York,Berlin,2018-08-03,6394
+302,8,Berlin,Chicago,2019-09-22,7093
+303,5,Chicago,Paris,2019-08-25,6660
+304,9,Tokio,Frankfurt,2019-12-20,9349
+305,5,New York,Chicago,2018-03-10,1146
+306,7,New York,Berlin,2018-08-01,6394
+307,2,Tokio,Paris,2018-06-08,9730
+308,8,Warsaw,Frankfurt,2018-04-14,891
+309,7,London,Warsaw,2018-09-09,1451
+310,1,Warsaw,London,2019-02-28,1451
+311,7,Warsaw,Frankfurt,2018-11-28,891
+312,10,Paris,Katowice,2019-04-08,1212
+313,2,Frankfurt,Paris,2018-01-07,479
+314,3,Paris,Tokio,2019-01-26,9730
+315,10,Berlin,Warsaw,2019-05-03,518
+316,5,Warsaw,New York,2018-06-05,6864
+317,10,Chicago,New York,2018-07-30,1146
+318,1,New York,Katowice,2018-05-24,6857
+319,2,Berlin,Frankfurt,2019-01-30,424
+320,9,New York,Warsaw,2019-07-23,6864
+321,7,Tokio,Paris,2019-01-12,9730
+322,9,Rome,Warsaw,2018-03-13,1318
+323,7,Warsaw,New York,2018-10-25,6864
+324,1,London,New York,2018-06-28,5578
+325,8,Berlin,Chicago,2019-10-11,7093
+326,6,Chicago,Frankfurt,2019-01-05,6974
+327,3,Paris,Warsaw,2018-03-08,1368
+328,2,Warsaw,Berlin,2018-04-06,518
+329,1,Paris,Frankfurt,2018-07-04,479
+330,2,Katowice,London,2019-06-15,1349
+331,3,New York,Katowice,2019-02-09,6857
+332,10,Frankfurt,New York,2019-02-07,6211
+333,5,Paris,New York,2019-10-10,5845
+334,5,Paris,Rome,2019-09-24,1105
+335,3,Chicago,Frankfurt,2019-09-17,6974
+336,8,Rome,Paris,2018-07-11,1105
+337,5,Paris,Katowice,2019-12-27,1212
+338,8,Tokio,Berlin,2019-04-20,8933
+339,10,Rome,Paris,2018-12-13,1105
+340,6,London,New York,2018-01-05,5578
+341,2,Katowice,Paris,2018-09-01,1212
+342,1,Katowice,Berlin,2019-01-10,464
+343,7,Berlin,Paris,2019-11-15,879
+344,5,Rome,New York,2019-06-25,6897
+345,1,Chicago,London,2018-12-01,6362
+346,7,Paris,Katowice,2019-07-31,1212
+347,8,Berlin,Rome,2018-03-26,1185
+348,2,Tokio,London,2018-07-02,9576
+349,1,Katowice,Paris,2018-07-17,1212
+350,6,Rome,Warsaw,2018-03-24,1318
+351,7,New York,Chicago,2019-07-27,1146
+352,8,Katowice,New York,2019-08-02,6857
+353,8,Paris,Warsaw,2018-06-05,1368
+354,3,Paris,Tokio,2018-07-25,9730
+355,7,Katowice,London,2019-01-12,1349
+356,10,Rome,London,2019-03-12,1434
+357,7,Frankfurt,New York,2019-10-18,6211
+358,4,Frankfurt,Berlin,2018-02-16,424
+359,8,Frankfurt,Tokio,2019-02-17,9349
+360,8,Chicago,Berlin,2019-06-24,7093
+361,4,London,New York,2019-09-03,5578
+362,9,Paris,Katowice,2018-10-22,1212
+363,3,Chicago,New York,2018-07-07,1146
+364,3,Berlin,Chicago,2018-06-10,7093
+365,6,Chicago,Rome,2019-01-07,7749
+366,2,Tokio,New York,2018-06-21,10864
+367,5,Berlin,Paris,2019-07-14,879
+368,10,Tokio,Frankfurt,2018-02-26,9349
+369,4,Rome,Katowice,2018-02-24,1059
+370,9,Paris,London,2019-08-23,344
+371,9,Berlin,Frankfurt,2019-06-04,424
+372,2,New York,London,2019-10-16,5578
+373,5,London,Warsaw,2018-04-25,1451
+374,6,Rome,Tokio,2018-01-30,9874
+375,9,Frankfurt,Paris,2018-10-05,479
+376,9,Frankfurt,Berlin,2019-11-01,424
+377,6,London,Berlin,2018-02-27,933
+378,5,London,Paris,2018-10-01,344
+379,8,Katowice,Tokio,2019-01-16,8846
+380,9,Warsaw,Berlin,2019-08-14,518
+381,3,Warsaw,Katowice,2018-03-24,259
+382,8,Frankfurt,Warsaw,2019-02-16,891
+383,7,London,Katowice,2019-04-06,1349
+384,4,New York,Paris,2019-06-27,5845
+385,7,Chicago,Paris,2018-05-03,6660
+386,1,Tokio,Rome,2018-06-08,9874
+387,7,New York,Tokio,2018-11-14,10864
+388,8,Tokio,Warsaw,2018-04-13,8595
+389,9,Frankfurt,Warsaw,2018-02-05,891
+390,3,Tokio,New York,2019-12-03,10864
+391,10,Berlin,Katowice,2019-06-30,464
+392,3,Paris,London,2018-02-23,344
+393,4,Chicago,Paris,2019-01-02,6660
+394,8,Paris,New York,2018-09-24,5845
+395,6,Katowice,Rome,2018-10-11,1059
+396,5,Chicago,Tokio,2018-05-31,10152
+397,4,Rome,London,2018-10-26,1434
+398,8,Tokio,Berlin,2019-12-17,8933
+399,5,Tokio,Frankfurt,2019-11-05,9349
+400,5,Chicago,New York,2018-01-10,1146
+401,6,Paris,New York,2018-10-13,5845
+402,4,Paris,London,2018-09-27,344
+403,10,Chicago,Warsaw,2018-08-19,7522
+404,4,London,Paris,2019-04-27,344
+405,8,Rome,Paris,2018-07-20,1105
+406,9,Tokio,Frankfurt,2019-09-08,9349
+407,4,New York,Katowice,2018-08-18,6857
+408,5,Berlin,Frankfurt,2018-08-18,424
+409,7,New York,Frankfurt,2019-01-16,6211
+410,7,Chicago,Tokio,2019-03-09,10152
+411,9,Chicago,Tokio,2018-10-14,10152
+412,4,Rome,Tokio,2018-02-10,9874
+413,7,Warsaw,Katowice,2019-06-03,259
+414,10,London,Tokio,2019-06-28,9576
+415,7,Warsaw,Rome,2019-08-30,1318
+416,10,Katowice,Warsaw,2019-09-19,259
+417,4,Tokio,Katowice,2018-06-13,8846
+418,8,New York,Chicago,2018-08-16,1146
+419,4,Warsaw,Paris,2019-06-10,1368
+420,7,Katowice,Frankfurt,2019-08-17,737
+421,4,Berlin,Chicago,2018-11-13,7093
+422,7,Tokio,Katowice,2019-07-30,8846
+423,4,London,Warsaw,2018-11-23,1451
+424,6,Frankfurt,Chicago,2019-09-23,6974
+425,8,Rome,Chicago,2018-02-21,7749
+426,7,Tokio,Frankfurt,2018-01-28,9349
+427,10,London,Frankfurt,2018-10-16,639
+428,1,Tokio,Katowice,2018-11-18,8846
+429,10,Berlin,London,2018-12-02,933
+430,9,New York,Chicago,2019-06-16,1146
+431,2,Warsaw,Katowice,2018-12-14,259
+432,4,Frankfurt,London,2019-09-09,639
+433,9,Frankfurt,Paris,2019-04-13,479
+434,9,Rome,Katowice,2019-04-22,1059
+435,7,Chicago,Tokio,2019-08-02,10152
+436,5,Warsaw,Katowice,2019-08-29,259
+437,4,Berlin,London,2019-06-07,933
+438,2,Rome,Katowice,2018-05-07,1059
+439,2,Tokio,London,2018-01-20,9576
+440,9,Tokio,Berlin,2018-09-06,8933
+441,4,Chicago,Katowice,2018-07-07,7556
+442,5,New York,Frankfurt,2018-03-01,6211
+443,2,Berlin,New York,2019-04-24,6394
+444,7,Warsaw,Tokio,2018-02-24,8595
+445,8,London,Frankfurt,2019-11-02,639
+446,1,Tokio,Frankfurt,2019-02-12,9349
+447,6,Katowice,New York,2018-09-30,6857
+448,8,New York,Frankfurt,2019-06-15,6211
+449,10,Tokio,Rome,2019-02-15,9874
+450,1,Frankfurt,Tokio,2019-06-26,9349
+451,6,Rome,Paris,2019-11-26,1105
+452,2,Chicago,London,2018-03-22,6362
+453,6,Berlin,Rome,2018-12-24,1185
+454,7,Warsaw,London,2019-04-10,1451
+455,9,Katowice,Tokio,2019-06-14,8846
+456,1,Warsaw,Paris,2018-03-24,1368
+457,6,Chicago,Tokio,2019-07-01,10152
+458,6,Chicago,Warsaw,2019-10-19,7522
+459,9,Frankfurt,Paris,2018-07-20,479
+460,10,Tokio,Chicago,2019-10-30,10152
+461,8,Tokio,Berlin,2019-12-08,8933
+462,3,Warsaw,Katowice,2018-07-05,259
+463,1,Rome,Chicago,2019-01-10,7749
+464,1,Warsaw,Rome,2019-10-14,1318
+465,9,Berlin,London,2019-08-13,933
+466,7,Frankfurt,Paris,2019-07-12,479
+467,2,Warsaw,Paris,2018-02-12,1368
+468,1,Frankfurt,London,2018-08-08,639
+469,2,Paris,London,2019-04-27,344
+470,8,London,Berlin,2019-10-09,933
+471,6,Paris,Katowice,2018-03-25,1212
+472,8,Rome,Warsaw,2018-08-09,1318
+473,10,Katowice,Tokio,2018-10-01,8846
+474,8,London,Chicago,2018-12-28,6362
+475,10,Rome,Tokio,2019-08-16,9874
+476,3,Chicago,Tokio,2018-10-05,10152
+477,9,Chicago,Berlin,2018-02-06,7093
+478,10,Katowice,New York,2019-01-19,6857
+479,1,Rome,New York,2019-10-02,6897
+480,8,Paris,Frankfurt,2019-05-29,479
+481,8,Frankfurt,Berlin,2018-03-24,424
+482,5,Chicago,Tokio,2019-01-09,10152
+483,1,Chicago,Paris,2019-08-20,6660
+484,3,New York,Rome,2019-06-05,6897
+485,8,Rome,Warsaw,2019-03-08,1318
+486,7,London,Rome,2019-12-22,1434
+487,7,Katowice,New York,2019-03-20,6857
+488,3,London,Katowice,2018-01-10,1349
+489,4,Paris,New York,2019-07-27,5845
+490,7,Paris,Rome,2018-04-17,1105
+491,2,New York,London,2019-07-10,5578
+492,3,Tokio,New York,2019-05-29,10864
+493,7,Paris,Rome,2018-02-07,1105
+494,8,Tokio,Berlin,2018-01-04,8933
+495,7,Paris,New York,2019-04-30,5845
+496,7,New York,Berlin,2018-11-13,6394
+497,10,Chicago,Rome,2019-11-10,7749
+498,8,London,Frankfurt,2018-07-26,639
+499,6,New York,Chicago,2019-01-27,1146
+500,10,Warsaw,London,2019-08-04,1451
+501,1,Berlin,Katowice,2018-06-02,464
+502,1,Berlin,Tokio,2018-06-17,8933
+503,2,Paris,London,2019-10-23,344
+504,6,Berlin,Rome,2019-08-03,1185
+505,3,Paris,Chicago,2018-07-09,6660
+506,8,London,Paris,2019-12-09,344
+507,9,Tokio,New York,2019-02-23,10864
+508,2,Paris,New York,2018-07-15,5845
+509,8,Tokio,Chicago,2019-02-20,10152
+510,8,New York,Chicago,2018-05-23,1146
+511,1,Katowice,Warsaw,2019-12-23,259
+512,3,Paris,Katowice,2019-08-14,1212
+513,2,Rome,Berlin,2019-11-13,1185
+514,2,Frankfurt,Chicago,2019-08-07,6974
+515,10,London,Katowice,2018-04-25,1349
+516,3,Chicago,Katowice,2018-11-26,7556
+517,8,Tokio,Katowice,2018-09-18,8846
+518,8,Chicago,Katowice,2018-01-16,7556
+519,10,Warsaw,Berlin,2018-03-28,518
+520,7,Berlin,London,2019-12-14,933
+521,1,Berlin,Paris,2019-10-29,879
+522,1,Warsaw,Katowice,2019-05-31,259
+523,2,Chicago,London,2019-10-14,6362
+524,9,Paris,Katowice,2019-08-24,1212
+525,8,Rome,Warsaw,2019-11-23,1318
+526,4,London,New York,2019-06-26,5578
+527,3,Paris,Berlin,2018-02-05,879
+528,8,Rome,Katowice,2019-11-04,1059
+529,9,Warsaw,New York,2019-07-15,6864
+530,7,Katowice,Paris,2018-03-07,1212
+531,1,Berlin,Warsaw,2019-06-22,518
+532,6,New York,Chicago,2018-12-21,1146
+533,10,New York,Katowice,2018-09-07,6857
+534,8,Frankfurt,Berlin,2019-07-20,424
+535,9,Berlin,Paris,2018-06-20,879
+536,5,Warsaw,Katowice,2019-07-14,259
+537,2,London,New York,2019-07-03,5578
+538,5,Warsaw,Berlin,2018-07-23,518
+539,1,New York,Chicago,2018-01-24,1146
+540,7,London,Frankfurt,2019-02-12,639
+541,6,Chicago,Paris,2018-05-14,6660
+542,9,Rome,Katowice,2019-03-10,1059
+543,5,Rome,Frankfurt,2018-03-02,959
+544,10,London,Chicago,2018-07-25,6362
+545,2,Frankfurt,Tokio,2018-10-22,9349
+546,5,Rome,Tokio,2019-09-26,9874
+547,1,Warsaw,Berlin,2018-12-05,518
+548,3,Katowice,New York,2018-03-03,6857
+549,4,New York,Frankfurt,2018-11-30,6211
+550,7,Frankfurt,Paris,2018-07-30,479
+551,8,Warsaw,Paris,2018-04-24,1368
+552,2,Rome,Chicago,2019-06-17,7749
+553,10,Berlin,Rome,2018-04-22,1185
+554,10,London,Berlin,2019-09-20,933
+555,1,Rome,New York,2019-02-11,6897
+556,7,Paris,Warsaw,2018-08-05,1368
+557,6,Warsaw,London,2018-05-11,1451
+558,9,Tokio,Katowice,2018-03-21,8846
+559,2,Warsaw,London,2018-12-24,1451
+560,10,Katowice,Warsaw,2018-02-26,259
+561,1,Katowice,Paris,2018-01-02,1212
+562,2,Chicago,London,2018-10-04,6362
+563,2,Tokio,London,2019-06-07,9576
+564,2,Warsaw,Chicago,2019-09-05,7522
+565,7,Rome,New York,2019-11-22,6897
+566,7,Paris,Katowice,2019-05-14,1212
+567,2,Warsaw,Paris,2019-01-20,1368
+568,7,New York,Chicago,2018-10-19,1146
+569,9,London,Paris,2019-03-09,344
+570,8,Chicago,Tokio,2019-10-11,10152
+571,3,New York,London,2018-08-21,5578
+572,2,Chicago,Frankfurt,2019-12-23,6974
+573,6,Paris,Warsaw,2018-03-03,1368
+574,7,Rome,Berlin,2018-09-19,1185
+575,4,London,Frankfurt,2019-07-23,639
+576,4,Warsaw,New York,2018-09-26,6864
+577,1,New York,Rome,2018-08-29,6897
+578,8,Paris,Chicago,2018-04-06,6660
+579,4,London,Warsaw,2018-01-05,1451
+580,3,Warsaw,New York,2019-06-09,6864
+581,9,Tokio,Paris,2019-09-28,9730
+582,6,Tokio,Berlin,2018-03-13,8933
+583,1,Paris,Warsaw,2019-06-06,1368
+584,10,Frankfurt,Warsaw,2019-09-11,891
+585,4,Katowice,Rome,2019-10-14,1059
+586,9,Katowice,Paris,2018-05-16,1212
+587,3,Warsaw,Berlin,2018-08-25,518
+588,5,Frankfurt,Berlin,2018-05-25,424
+589,2,London,Paris,2018-08-05,344
+590,3,New York,Frankfurt,2018-10-15,6211
+591,7,Warsaw,New York,2019-07-09,6864
+592,2,Tokio,Warsaw,2018-05-02,8595
+593,3,New York,London,2019-08-30,5578
+594,1,New York,Berlin,2018-12-08,6394
+595,4,Frankfurt,New York,2018-09-07,6211
+596,9,Warsaw,New York,2018-02-02,6864
+597,5,Tokio,Chicago,2018-02-03,10152
+598,6,Katowice,London,2019-10-04,1349
+599,9,Berlin,New York,2019-01-12,6394
+600,7,Paris,Katowice,2018-05-16,1212
+601,4,Warsaw,Chicago,2018-08-21,7522
+602,1,Chicago,Katowice,2019-02-28,7556
+603,8,Chicago,New York,2019-10-28,1146
+604,7,Rome,Paris,2019-01-13,1105
+605,6,Warsaw,London,2019-10-12,1451
+606,9,Tokio,Rome,2019-11-17,9874
+607,10,Frankfurt,Warsaw,2019-07-14,891
+608,3,New York,Rome,2018-10-04,6897
+609,1,Berlin,Katowice,2018-11-08,464
+610,9,Tokio,Berlin,2019-12-08,8933
+611,7,Rome,New York,2019-01-22,6897
+612,9,Katowice,Warsaw,2019-03-25,259
+613,10,Frankfurt,Warsaw,2018-04-19,891
+614,8,Rome,Warsaw,2019-02-28,1318
+615,4,Rome,London,2018-09-08,1434
+616,10,Warsaw,Rome,2019-01-14,1318
+617,10,New York,Rome,2019-08-18,6897
+618,9,Tokio,Rome,2018-09-09,9874
+619,9,Paris,New York,2019-09-19,5845
+620,7,Frankfurt,Berlin,2019-11-03,424
+621,1,Paris,Berlin,2018-12-24,879
+622,7,Berlin,Paris,2018-09-21,879
+623,8,Frankfurt,Katowice,2018-11-07,737
+624,9,Warsaw,Berlin,2018-10-26,518
+625,4,Katowice,Berlin,2019-11-07,464
+626,8,Paris,Rome,2018-09-04,1105
+627,4,Berlin,Tokio,2019-05-26,8933
+628,7,Katowice,Chicago,2018-11-08,7556
+629,6,Frankfurt,Katowice,2018-04-13,737
+630,7,London,Tokio,2019-07-21,9576
+631,10,New York,Katowice,2019-04-24,6857
+632,6,Katowice,London,2018-12-15,1349
+633,5,Warsaw,Chicago,2018-02-01,7522
+634,9,Paris,Katowice,2019-02-08,1212
+635,2,Chicago,Paris,2018-11-12,6660
+636,10,Chicago,Berlin,2018-09-15,7093
+637,8,Berlin,Frankfurt,2019-09-24,424
+638,8,Warsaw,Tokio,2018-06-26,8595
+639,5,Frankfurt,Paris,2018-03-30,479
+640,5,Tokio,Rome,2019-01-28,9874
+641,2,New York,London,2019-08-06,5578
+642,4,Chicago,London,2019-01-31,6362
+643,10,Paris,Tokio,2019-09-29,9730
+644,7,Paris,Chicago,2018-06-05,6660
+645,5,Katowice,Chicago,2019-04-12,7556
+646,6,Chicago,London,2018-07-30,6362
+647,5,New York,Katowice,2019-09-03,6857
+648,5,Paris,Chicago,2019-11-12,6660
+649,4,New York,Rome,2018-05-18,6897
+650,9,New York,London,2018-07-26,5578
+651,4,Rome,Katowice,2019-07-07,1059
+652,10,Chicago,Berlin,2018-10-06,7093
+653,6,London,Rome,2018-06-08,1434
+654,1,Tokio,Katowice,2019-10-25,8846
+655,1,London,Rome,2019-06-26,1434
+656,3,Katowice,New York,2019-03-08,6857
+657,1,Rome,Tokio,2018-03-14,9874
+658,3,Paris,Rome,2018-06-20,1105
+659,4,Chicago,Warsaw,2018-09-23,7522
+660,5,Paris,New York,2018-02-08,5845
+661,5,New York,Frankfurt,2018-07-21,6211
+662,3,Rome,Chicago,2019-01-15,7749
+663,2,Berlin,Tokio,2018-04-20,8933
+664,2,Chicago,Frankfurt,2018-07-16,6974
+665,3,New York,Paris,2019-10-25,5845
+666,4,Berlin,London,2019-12-04,933
+667,6,Chicago,Warsaw,2019-02-21,7522
+668,2,Frankfurt,Tokio,2019-03-21,9349
+669,5,Rome,Paris,2018-08-11,1105
+670,3,Paris,Frankfurt,2019-12-21,479
+671,3,London,Warsaw,2019-09-23,1451
+672,5,Warsaw,Frankfurt,2019-07-01,891
+673,8,Berlin,London,2018-03-16,933
+674,9,London,New York,2018-07-23,5578
+675,7,Berlin,Katowice,2019-08-01,464
+676,9,Tokio,Rome,2018-03-23,9874
+677,10,Berlin,London,2018-10-01,933
+678,8,Katowice,Paris,2019-12-01,1212
+679,5,Chicago,Rome,2019-01-21,7749
+680,10,Frankfurt,Rome,2018-12-09,959
+681,1,Warsaw,Tokio,2018-12-27,8595
+682,9,London,Katowice,2018-12-16,1349
+683,9,Rome,New York,2018-12-23,6897
+684,4,Chicago,Rome,2018-12-08,7749
+685,10,Warsaw,Frankfurt,2019-02-06,891
+686,5,Tokio,Katowice,2018-01-15,8846
+687,9,London,Warsaw,2018-07-21,1451
+688,1,Paris,Chicago,2018-02-13,6660
+689,6,Frankfurt,Rome,2019-10-17,959
+690,2,Chicago,Paris,2018-10-21,6660
+691,7,Frankfurt,Rome,2018-03-24,959
+692,4,Rome,Paris,2019-11-12,1105
+693,10,Rome,New York,2019-04-01,6897
+694,4,Tokio,Warsaw,2019-01-31,8595
+695,2,Berlin,Rome,2019-01-26,1185
+696,6,Katowice,Berlin,2018-08-20,464
+697,10,New York,Paris,2018-06-30,5845
+698,5,Frankfurt,Chicago,2019-06-11,6974
+699,9,Paris,Warsaw,2018-01-05,1368
+700,8,Rome,Katowice,2018-01-25,1059
+701,5,Warsaw,Rome,2018-04-26,1318
+702,3,New York,London,2018-05-22,5578
+703,4,Frankfurt,New York,2019-10-09,6211
+704,5,Katowice,New York,2018-11-19,6857
+705,2,Frankfurt,Chicago,2019-06-10,6974
+706,1,Berlin,Paris,2019-09-03,879
+707,9,Paris,London,2018-05-11,344
+708,6,Berlin,Frankfurt,2018-08-16,424
+709,5,Warsaw,Frankfurt,2019-04-19,891
+710,1,Paris,London,2018-01-22,344
+711,9,London,Tokio,2018-10-23,9576
+712,9,Berlin,Frankfurt,2019-05-24,424
+713,9,Paris,Berlin,2019-12-06,879
+714,2,Tokio,Frankfurt,2018-02-02,9349
+715,10,Katowice,Rome,2018-09-17,1059
+716,3,Rome,Chicago,2019-09-21,7749
+717,1,Tokio,Chicago,2018-08-02,10152
+718,10,Paris,Warsaw,2018-05-02,1368
+719,1,London,Rome,2018-06-18,1434
+720,4,New York,Rome,2019-01-21,6897
+721,1,Frankfurt,Berlin,2018-11-02,424
+722,1,Katowice,New York,2018-09-10,6857
+723,7,Katowice,Warsaw,2018-05-13,259
+724,2,Paris,Tokio,2018-09-14,9730
+725,10,Tokio,Frankfurt,2018-05-13,9349
+726,3,Warsaw,Frankfurt,2018-06-03,891
+727,6,Paris,Chicago,2018-11-14,6660
+728,6,Paris,Chicago,2018-04-13,6660
+729,5,Berlin,New York,2018-06-19,6394
+730,1,Katowice,London,2018-05-22,1349
+731,5,Berlin,Tokio,2019-05-05,8933
+732,1,Paris,Warsaw,2018-02-07,1368
+733,2,New York,Berlin,2018-09-16,6394
+734,7,Paris,Rome,2018-10-25,1105
+735,10,Chicago,Rome,2019-09-17,7749
+736,4,Paris,Rome,2019-09-19,1105
+737,6,Berlin,Tokio,2018-01-07,8933
+738,8,Rome,Katowice,2019-03-01,1059
+739,6,Frankfurt,Berlin,2018-08-04,424
+740,1,Tokio,New York,2018-08-01,10864
+741,9,Warsaw,Chicago,2019-01-06,7522
+742,7,Berlin,London,2018-08-26,933
+743,4,Katowice,New York,2019-09-03,6857
+744,5,Warsaw,Katowice,2018-09-24,259
+745,8,Chicago,Paris,2018-08-01,6660
+746,4,Rome,Paris,2018-08-12,1105
+747,3,Warsaw,New York,2019-02-08,6864
+748,7,London,Berlin,2018-10-30,933
+749,1,Warsaw,Tokio,2019-04-08,8595
+750,4,Katowice,Warsaw,2018-10-18,259
+751,8,Paris,Frankfurt,2019-08-08,479
+752,6,Katowice,Berlin,2018-11-30,464
+753,7,Berlin,New York,2018-06-17,6394
+754,6,Rome,London,2018-03-28,1434
+755,1,Katowice,Paris,2019-10-21,1212
+756,1,New York,Tokio,2018-06-08,10864
+757,8,Paris,Frankfurt,2019-03-06,479
+758,4,Paris,Chicago,2019-10-12,6660
+759,7,Warsaw,London,2019-11-25,1451
+760,6,New York,Warsaw,2018-10-11,6864
+761,5,Frankfurt,London,2019-12-04,639
+762,9,Rome,Chicago,2018-06-30,7749
+763,10,Berlin,Paris,2019-08-13,879
+764,6,New York,London,2019-01-20,5578
+765,2,Paris,Tokio,2019-05-24,9730
+766,8,Tokio,Rome,2018-07-03,9874
+767,10,Berlin,London,2019-04-13,933
+768,4,Paris,Frankfurt,2019-08-29,479
+769,7,New York,Tokio,2019-06-04,10864
+770,9,Katowice,Warsaw,2019-05-05,259
+771,10,London,Chicago,2019-06-06,6362
+772,2,Frankfurt,Berlin,2018-10-21,424
+773,3,London,Paris,2018-07-08,344
+774,1,Frankfurt,New York,2018-12-20,6211
+775,2,Warsaw,Berlin,2018-03-20,518
+776,7,London,Frankfurt,2019-04-17,639
+777,7,Berlin,Rome,2019-09-07,1185
+778,6,London,New York,2019-04-21,5578
+779,5,New York,Warsaw,2019-06-06,6864
+780,10,Warsaw,Katowice,2018-11-23,259
+781,7,Paris,Frankfurt,2018-01-22,479
+782,2,Warsaw,Rome,2018-10-11,1318
+783,5,New York,Katowice,2019-12-13,6857
+784,1,Paris,London,2019-08-12,344
+785,5,Warsaw,Chicago,2019-10-22,7522
+786,2,Chicago,New York,2019-07-16,1146
+787,8,New York,Chicago,2019-10-05,1146
+788,3,Katowice,New York,2018-03-20,6857
+789,5,Paris,Berlin,2019-11-11,879
+790,4,Rome,Chicago,2019-12-16,7749
+791,5,Frankfurt,Tokio,2019-09-05,9349
+792,2,Berlin,Warsaw,2018-02-19,518
+793,6,Frankfurt,Rome,2019-08-12,959
+794,1,Chicago,Rome,2019-01-13,7749
+795,1,Berlin,London,2018-02-25,933
+796,7,Katowice,Rome,2018-12-09,1059
+797,9,Berlin,Tokio,2018-07-29,8933
+798,6,Berlin,Warsaw,2018-07-02,518
+799,1,Chicago,Paris,2018-04-28,6660
+800,2,Katowice,Berlin,2019-05-17,464
+801,7,Berlin,Katowice,2018-04-02,464
+802,8,Warsaw,Rome,2019-04-10,1318
+803,2,Paris,London,2018-01-31,344
+804,7,London,New York,2019-10-23,5578
+805,3,Rome,Frankfurt,2018-04-21,959
+806,4,Frankfurt,Tokio,2018-12-05,9349
+807,9,Katowice,London,2018-09-21,1349
+808,10,Tokio,Rome,2019-02-17,9874
+809,3,Paris,Berlin,2019-05-17,879
+810,1,Katowice,Rome,2018-02-28,1059
+811,8,Frankfurt,Katowice,2018-08-21,737
+812,4,Tokio,Chicago,2018-06-06,10152
+813,9,Rome,London,2019-05-12,1434
+814,10,Katowice,Warsaw,2019-05-12,259
+815,9,Frankfurt,Katowice,2018-02-07,737
+816,8,Warsaw,London,2018-12-08,1451
+817,10,Berlin,Warsaw,2019-06-27,518
+818,6,Tokio,Berlin,2019-04-01,8933
+819,5,Katowice,Paris,2018-04-10,1212
+820,8,Rome,Paris,2018-03-31,1105
+821,2,Berlin,Warsaw,2019-06-26,518
+822,10,Rome,Warsaw,2019-07-20,1318
+823,1,Chicago,Berlin,2019-05-14,7093
+824,1,Tokio,London,2018-10-01,9576
+825,6,London,Warsaw,2019-05-03,1451
+826,10,Berlin,Rome,2018-10-19,1185
+827,8,New York,Katowice,2019-12-10,6857
+828,7,London,Tokio,2018-05-22,9576
+829,3,Chicago,Frankfurt,2018-10-04,6974
+830,2,Berlin,New York,2018-04-19,6394
+831,6,Tokio,London,2019-12-25,9576
+832,1,Warsaw,Tokio,2019-05-13,8595
+833,4,Warsaw,Rome,2018-11-14,1318
+834,8,Katowice,Warsaw,2018-12-24,259
+835,10,Katowice,Tokio,2019-11-27,8846
+836,2,Warsaw,Katowice,2019-01-03,259
+837,6,Berlin,Paris,2019-08-31,879
+838,5,Paris,Tokio,2018-04-03,9730
+839,10,Katowice,Paris,2019-07-13,1212
+840,8,Chicago,Rome,2019-06-25,7749
+841,4,Berlin,Chicago,2018-03-06,7093
+842,5,Chicago,New York,2018-06-19,1146
+843,2,Katowice,New York,2019-07-27,6857
+844,2,Chicago,Berlin,2018-05-20,7093
+845,8,Frankfurt,Rome,2018-11-24,959
+846,6,Warsaw,Tokio,2018-06-26,8595
+847,5,Tokio,Chicago,2018-09-20,10152
+848,8,Katowice,New York,2019-03-01,6857
+849,10,Chicago,Paris,2018-05-08,6660
+850,5,Warsaw,Rome,2018-04-30,1318
+851,7,Chicago,Berlin,2018-09-28,7093
+852,6,Katowice,New York,2018-03-22,6857
+853,2,Rome,Frankfurt,2019-09-12,959
+854,9,Warsaw,Tokio,2019-01-09,8595
+855,5,New York,Paris,2019-05-25,5845
+856,9,Rome,Frankfurt,2019-01-07,959
+857,9,Tokio,Frankfurt,2018-05-22,9349
+858,1,New York,Katowice,2018-06-03,6857
+859,6,London,Chicago,2019-06-29,6362
+860,10,Warsaw,London,2018-11-18,1451
+861,10,Katowice,Rome,2018-01-22,1059
+862,7,Warsaw,Tokio,2019-08-11,8595
+863,2,London,Chicago,2019-06-17,6362
+864,5,London,Warsaw,2018-12-10,1451
+865,8,Chicago,New York,2019-05-14,1146
+866,5,Warsaw,Rome,2019-04-17,1318
+867,8,New York,Berlin,2018-05-02,6394
+868,2,London,Tokio,2018-03-09,9576
+869,6,Rome,Warsaw,2018-12-09,1318
+870,4,Tokio,New York,2019-09-25,10864
+871,7,Katowice,Frankfurt,2018-09-03,737
+872,4,Warsaw,Tokio,2018-03-19,8595
+873,6,New York,Katowice,2019-08-25,6857
+874,2,Chicago,London,2019-09-28,6362
+875,2,Rome,Warsaw,2019-12-30,1318
+876,6,Chicago,London,2018-08-17,6362
+877,3,Tokio,Warsaw,2018-11-12,8595
+878,7,New York,Tokio,2019-07-13,10864
+879,7,Berlin,Rome,2019-01-16,1185
+880,8,Chicago,London,2019-11-29,6362
+881,6,London,Chicago,2019-10-14,6362
+882,8,London,New York,2018-05-20,5578
+883,9,Warsaw,London,2019-02-11,1451
+884,9,Katowice,Warsaw,2018-12-19,259
+885,5,Tokio,Warsaw,2019-01-26,8595
+886,8,Chicago,London,2019-09-20,6362
+887,2,Katowice,Tokio,2018-11-22,8846
+888,9,New York,Tokio,2018-05-19,10864
+889,4,New York,Katowice,2018-02-19,6857
+890,4,Berlin,Warsaw,2018-06-07,518
+891,1,Chicago,Berlin,2019-07-27,7093
+892,6,Rome,Warsaw,2019-06-28,1318
+893,7,Tokio,Katowice,2019-01-03,8846
+894,9,Warsaw,Frankfurt,2019-04-15,891
+895,10,Rome,Chicago,2019-08-17,7749
+896,5,Tokio,Chicago,2018-10-08,10152
+897,10,Warsaw,Paris,2018-09-17,1368
+898,5,Paris,New York,2018-06-02,5845
+899,6,Berlin,Katowice,2019-05-16,464
+900,2,Frankfurt,Rome,2018-07-16,959
+901,9,London,New York,2018-11-13,5578
+902,2,Warsaw,London,2019-08-08,1451
+903,4,New York,Warsaw,2018-07-08,6864
+904,5,Frankfurt,Chicago,2018-09-10,6974
+905,3,Warsaw,Rome,2018-10-04,1318
+906,10,Katowice,Warsaw,2019-09-01,259
+907,3,Tokio,Frankfurt,2019-02-03,9349
+908,6,Katowice,Paris,2019-04-21,1212
+909,2,Frankfurt,New York,2018-03-09,6211
+910,7,Frankfurt,Warsaw,2019-01-13,891
+911,5,Frankfurt,Warsaw,2019-07-21,891
+912,1,Rome,Frankfurt,2018-02-26,959
+913,7,Paris,Chicago,2018-10-20,6660
+914,4,Warsaw,Frankfurt,2019-03-25,891
+915,3,Chicago,Katowice,2018-12-30,7556
+916,9,Paris,Rome,2018-07-06,1105
+917,8,London,Frankfurt,2018-07-28,639
+918,10,Paris,Tokio,2019-04-20,9730
+919,2,New York,London,2018-10-18,5578
+920,10,New York,Berlin,2019-11-04,6394
+921,4,Katowice,Berlin,2019-12-05,464
+922,9,Berlin,Frankfurt,2019-05-23,424
+923,2,London,Katowice,2019-05-02,1349
+924,9,London,Frankfurt,2018-03-27,639
+925,7,London,Chicago,2018-08-29,6362
+926,5,Rome,New York,2018-02-25,6897
+927,1,Chicago,Frankfurt,2018-01-02,6974
+928,3,Tokio,London,2018-06-19,9576
+929,1,Paris,New York,2019-12-06,5845
+930,4,Katowice,Warsaw,2019-04-20,259
+931,1,London,Berlin,2019-05-26,933
+932,9,Paris,Warsaw,2018-08-02,1368
+933,8,Rome,Frankfurt,2018-06-30,959
+934,1,Berlin,Tokio,2019-07-24,8933
+935,1,New York,Paris,2018-08-13,5845
+936,7,Berlin,Rome,2018-11-25,1185
+937,5,Warsaw,Berlin,2019-06-04,518
+938,1,Berlin,Rome,2018-11-29,1185
+939,2,Frankfurt,Chicago,2018-11-10,6974
+940,1,London,Paris,2019-10-25,344
+941,5,London,Rome,2018-01-29,1434
+942,4,Tokio,Chicago,2018-08-25,10152
+943,8,New York,Tokio,2018-06-07,10864
+944,8,Katowice,Berlin,2018-06-18,464
+945,7,Warsaw,Berlin,2019-05-19,518
+946,5,London,Paris,2018-11-20,344
+947,9,Tokio,Paris,2018-11-24,9730
+948,1,Rome,Frankfurt,2019-09-06,959
+949,7,Katowice,Chicago,2018-11-13,7556
+950,7,Katowice,Frankfurt,2019-03-14,737
+951,1,Berlin,Warsaw,2018-11-10,518
+952,8,New York,Katowice,2019-11-15,6857
+953,2,Frankfurt,New York,2018-04-09,6211
+954,1,Frankfurt,Tokio,2019-10-22,9349
+955,9,Paris,Katowice,2019-08-23,1212
+956,10,Frankfurt,Warsaw,2018-07-23,891
+957,9,Frankfurt,Rome,2019-08-26,959
+958,8,Katowice,Rome,2019-06-09,1059
+959,5,Chicago,Rome,2019-04-03,7749
+960,9,Katowice,Berlin,2018-02-21,464
+961,3,Frankfurt,Rome,2019-06-07,959
+962,3,Frankfurt,Berlin,2019-01-03,424
+963,6,Warsaw,Frankfurt,2018-07-12,891
+964,1,Chicago,New York,2019-08-12,1146
+965,5,Rome,Tokio,2019-09-17,9874
+966,5,Rome,Chicago,2019-06-20,7749
+967,9,Katowice,Berlin,2018-06-22,464
+968,10,New York,Warsaw,2019-06-06,6864
+969,4,New York,Warsaw,2019-03-31,6864
+970,1,Rome,New York,2019-09-02,6897
+971,1,London,Berlin,2019-12-07,933
+972,5,Berlin,Paris,2019-04-23,879
+973,5,New York,Berlin,2019-07-24,6394
+974,2,New York,London,2019-02-02,5578
+975,9,Warsaw,London,2019-10-16,1451
+976,1,Tokio,London,2018-05-21,9576
+977,5,Rome,Tokio,2019-07-25,9874
+978,7,Tokio,Frankfurt,2019-03-07,9349
+979,3,Frankfurt,New York,2019-01-09,6211
+980,8,Berlin,London,2018-06-28,933
+981,3,Berlin,Warsaw,2018-02-23,518
+982,4,Rome,Tokio,2018-07-21,9874
+983,9,Paris,New York,2019-04-09,5845
+984,5,Katowice,Berlin,2018-01-20,464
+985,8,London,Chicago,2019-02-07,6362
+986,6,Katowice,Tokio,2018-05-18,8846
+987,4,Paris,Katowice,2019-08-09,1212
+988,2,Berlin,Rome,2018-08-18,1185
+989,3,Tokio,Rome,2019-11-15,9874
+990,2,London,Katowice,2019-06-23,1349
+991,1,Paris,Frankfurt,2018-03-20,479
+992,3,Rome,Tokio,2019-11-07,9874
+993,3,Rome,Paris,2018-01-27,1105
+994,8,Berlin,New York,2019-09-12,6394
+995,9,Tokio,Rome,2018-11-13,9874
+996,4,New York,Tokio,2018-04-03,10864
+997,9,Rome,Paris,2018-10-11,1105
+998,7,Rome,London,2019-07-20,1434
+999,2,New York,Katowice,2019-05-15,6857
+1000,7,London,Rome,2018-02-17,1434
+1001,4,Frankfurt,Tokio,2019-08-27,9349
+1002,1,Tokio,Berlin,2018-11-02,8933
+1003,4,Frankfurt,Tokio,2019-08-26,9349
+1004,7,Warsaw,Berlin,2019-05-18,518
+1005,2,London,Rome,2019-09-03,1434
+1006,8,Paris,New York,2018-04-03,5845
+1007,10,London,Warsaw,2019-11-01,1451
+1008,8,Frankfurt,Berlin,2019-09-26,424
+1009,2,Paris,Tokio,2018-08-12,9730
+1010,10,Chicago,Berlin,2018-03-07,7093
+1011,6,London,Paris,2019-08-11,344
+1012,4,Chicago,Paris,2018-01-10,6660
+1013,5,Rome,Berlin,2018-05-02,1185
+1014,6,Chicago,Katowice,2019-03-16,7556
+1015,3,Frankfurt,Katowice,2019-06-10,737
+1016,4,Tokio,Rome,2019-12-24,9874
+1017,2,Paris,Warsaw,2018-08-07,1368
+1018,8,Chicago,London,2018-09-18,6362
+1019,5,London,Paris,2018-04-30,344
+1020,3,Warsaw,Rome,2019-10-07,1318
+1021,7,Berlin,Chicago,2019-07-28,7093
+1022,2,Rome,Chicago,2019-07-22,7749
+1023,5,Warsaw,Rome,2018-09-21,1318
+1024,10,Berlin,Katowice,2018-11-01,464
+1025,6,Chicago,Tokio,2019-07-07,10152
+1026,10,Berlin,Chicago,2018-12-21,7093
+1027,9,Katowice,Berlin,2018-01-25,464
+1028,3,Rome,Warsaw,2019-05-03,1318
+1029,10,Chicago,Tokio,2019-10-10,10152
+1030,5,Tokio,Berlin,2019-05-16,8933
+1031,2,Frankfurt,Rome,2019-06-26,959
+1032,9,New York,Frankfurt,2019-03-20,6211
+1033,1,Tokio,London,2018-11-21,9576
+1034,10,Tokio,Paris,2018-03-31,9730
+1035,7,New York,Tokio,2019-08-10,10864
+1036,5,Warsaw,Rome,2018-12-06,1318
+1037,9,Frankfurt,Tokio,2019-07-28,9349
+1038,2,Frankfurt,New York,2018-06-25,6211
+1039,3,New York,Paris,2019-05-21,5845
+1040,6,Warsaw,London,2018-10-19,1451
+1041,5,Warsaw,Katowice,2019-10-03,259
+1042,1,Berlin,Katowice,2019-06-25,464
+1043,2,Paris,Warsaw,2019-03-28,1368
+1044,9,Warsaw,Tokio,2018-07-11,8595
+1045,4,Paris,Frankfurt,2019-06-27,479
+1046,6,London,Berlin,2019-06-29,933
+1047,9,Katowice,Berlin,2018-06-30,464
+1048,2,Warsaw,Frankfurt,2018-08-17,891
+1049,6,Chicago,Rome,2018-06-07,7749
+1050,9,Chicago,Tokio,2019-06-05,10152
+1051,7,Warsaw,Tokio,2018-09-29,8595
+1052,7,New York,Rome,2018-10-02,6897
+1053,2,Tokio,Frankfurt,2018-02-25,9349
+1054,9,Warsaw,Chicago,2018-09-25,7522
+1055,6,Chicago,Berlin,2019-11-25,7093
+1056,1,Berlin,Chicago,2019-06-14,7093
+1057,4,Paris,Tokio,2018-04-19,9730
+1058,8,Frankfurt,Rome,2019-10-11,959
+1059,2,Katowice,Tokio,2019-04-24,8846
+1060,7,Rome,Warsaw,2018-12-09,1318
+1061,6,Warsaw,Rome,2019-10-26,1318
+1062,3,Paris,Chicago,2018-12-24,6660
+1063,2,Frankfurt,Rome,2018-10-09,959
+1064,8,Rome,Berlin,2019-01-02,1185
+1065,7,Rome,Frankfurt,2018-04-03,959
+1066,2,Rome,Frankfurt,2018-04-07,959
+1067,9,Berlin,Frankfurt,2019-03-05,424
+1068,2,Chicago,Tokio,2018-08-17,10152
+1069,7,Rome,Chicago,2018-03-02,7749
+1070,4,Frankfurt,Tokio,2019-12-17,9349
+1071,6,Paris,Chicago,2018-10-25,6660
+1072,9,Paris,Katowice,2018-04-15,1212
+1073,6,Tokio,Katowice,2019-10-25,8846
+1074,2,Tokio,London,2019-02-06,9576
+1075,6,London,Rome,2019-01-27,1434
+1076,7,Warsaw,New York,2018-10-15,6864
+1077,1,London,Tokio,2019-02-21,9576
+1078,1,London,Katowice,2019-08-24,1349
+1079,1,Berlin,Tokio,2018-08-12,8933
+1080,2,Tokio,Frankfurt,2019-03-10,9349
+1081,4,London,New York,2018-07-16,5578
+1082,2,New York,Paris,2019-12-18,5845
+1083,10,London,Rome,2018-10-17,1434
+1084,6,Berlin,Tokio,2018-01-26,8933
+1085,7,Chicago,New York,2018-07-27,1146
+1086,4,Paris,Chicago,2019-02-18,6660
+1087,6,Paris,London,2019-07-16,344
+1088,3,New York,Berlin,2018-02-07,6394
+1089,2,Paris,Rome,2018-08-25,1105
+1090,9,Warsaw,Rome,2018-03-02,1318
+1091,4,Katowice,New York,2018-04-02,6857
+1092,3,Frankfurt,Katowice,2018-04-08,737
+1093,10,Chicago,Frankfurt,2019-05-18,6974
+1094,3,Frankfurt,Tokio,2018-03-03,9349
+1095,2,London,Katowice,2019-02-27,1349
+1096,7,Katowice,London,2019-12-21,1349
+1097,7,London,Warsaw,2019-12-14,1451
+1098,9,Tokio,Frankfurt,2018-10-14,9349
+1099,7,Tokio,London,2019-11-23,9576
+1100,6,Tokio,Warsaw,2018-07-30,8595
+1101,4,New York,Rome,2018-03-12,6897
+1102,5,Katowice,Paris,2019-12-05,1212
+1103,3,Chicago,London,2019-09-16,6362
+1104,3,Berlin,Chicago,2018-07-20,7093
+1105,10,Warsaw,Rome,2018-02-27,1318
+1106,7,Tokio,Warsaw,2019-06-07,8595
+1107,6,Tokio,New York,2019-02-18,10864
+1108,1,Warsaw,Paris,2018-12-24,1368
+1109,8,Rome,London,2018-12-03,1434
+1110,9,Berlin,London,2018-11-28,933
+1111,10,Chicago,Tokio,2019-03-27,10152
+1112,10,Chicago,New York,2019-04-30,1146
+1113,7,Rome,Frankfurt,2019-07-28,959
+1114,10,Frankfurt,Berlin,2018-09-17,424
+1115,2,Tokio,Frankfurt,2019-04-09,9349
+1116,5,Katowice,Berlin,2018-05-22,464
+1117,5,New York,Paris,2018-07-12,5845
+1118,6,Rome,Paris,2019-03-29,1105
+1119,8,Chicago,Warsaw,2018-07-11,7522
+1120,4,Katowice,Chicago,2019-05-10,7556
+1121,1,Berlin,Frankfurt,2018-02-26,424
+1122,2,Katowice,Tokio,2018-09-08,8846
+1123,8,Tokio,Warsaw,2018-03-29,8595
+1124,10,Tokio,Paris,2018-06-16,9730
+1125,4,Tokio,Berlin,2019-05-26,8933
+1126,10,Frankfurt,Paris,2018-02-11,479
+1127,10,Frankfurt,Paris,2019-06-16,479
+1128,3,New York,Paris,2019-09-20,5845
+1129,6,New York,Warsaw,2018-02-14,6864
+1130,8,Frankfurt,London,2019-07-27,639
+1131,2,Berlin,London,2018-03-23,933
+1132,2,London,Tokio,2018-11-28,9576
+1133,2,London,New York,2018-10-17,5578
+1134,7,Rome,Chicago,2019-03-31,7749
+1135,8,London,Paris,2018-03-27,344
+1136,5,Paris,Warsaw,2019-11-26,1368
+1137,2,Paris,New York,2019-11-09,5845
+1138,5,Tokio,New York,2018-11-29,10864
+1139,5,Tokio,Paris,2019-12-06,9730
+1140,3,Berlin,Paris,2018-10-17,879
+1141,7,Katowice,New York,2018-10-10,6857
+1142,10,Tokio,Rome,2018-03-09,9874
+1143,6,Frankfurt,Paris,2019-10-02,479
+1144,6,New York,Tokio,2018-11-17,10864
+1145,9,Paris,Chicago,2019-02-20,6660
+1146,6,Berlin,Rome,2018-03-24,1185
+1147,8,London,Tokio,2019-05-19,9576
+1148,7,Berlin,Tokio,2018-04-19,8933
+1149,8,New York,Berlin,2018-01-24,6394
+1150,8,London,Rome,2018-03-29,1434
+1151,7,Warsaw,London,2019-10-19,1451
+1152,3,Chicago,New York,2019-09-19,1146
+1153,4,Paris,New York,2018-11-11,5845
+1154,1,Katowice,London,2018-07-19,1349
+1155,2,Paris,New York,2018-05-21,5845
+1156,1,Chicago,Frankfurt,2018-03-26,6974
+1157,5,Berlin,Katowice,2019-07-21,464
+1158,3,Paris,Berlin,2018-11-01,879
+1159,8,Frankfurt,Paris,2019-06-11,479
+1160,9,Rome,Berlin,2019-04-20,1185
+1161,8,Tokio,Chicago,2019-12-08,10152
+1162,6,Katowice,New York,2019-07-02,6857
+1163,9,Berlin,Tokio,2018-09-09,8933
+1164,10,Warsaw,Paris,2018-10-08,1368
+1165,7,Frankfurt,Rome,2019-09-23,959
+1166,1,Berlin,London,2018-08-13,933
+1167,5,London,Warsaw,2018-02-27,1451
+1168,10,Paris,London,2018-10-23,344
+1169,6,Berlin,Warsaw,2019-06-25,518
+1170,3,Paris,Katowice,2019-10-07,1212
+1171,3,Chicago,Paris,2018-06-01,6660
+1172,3,Katowice,Frankfurt,2018-09-05,737
+1173,2,Tokio,Rome,2019-01-04,9874
+1174,1,Chicago,Paris,2018-12-31,6660
+1175,3,New York,Tokio,2018-12-07,10864
+1176,4,New York,Warsaw,2019-08-15,6864
+1177,5,Berlin,Frankfurt,2018-07-14,424
+1178,1,Frankfurt,Chicago,2018-03-19,6974
+1179,7,Frankfurt,New York,2019-09-10,6211
+1180,1,Tokio,Berlin,2019-04-01,8933
+1181,7,Berlin,London,2018-05-13,933
+1182,7,Frankfurt,Katowice,2019-11-03,737
+1183,10,Paris,Tokio,2018-07-15,9730
+1184,1,London,Warsaw,2019-09-07,1451
+1185,3,London,Rome,2019-11-09,1434
+1186,10,Rome,Frankfurt,2019-02-20,959
+1187,5,Berlin,Frankfurt,2018-12-16,424
+1188,9,Frankfurt,Warsaw,2018-08-16,891
+1189,1,New York,Paris,2018-10-02,5845
+1190,10,Rome,Warsaw,2018-07-05,1318
+1191,3,Katowice,Paris,2018-05-31,1212
+1192,4,Berlin,Frankfurt,2019-03-02,424
+1193,2,Warsaw,London,2019-12-03,1451
+1194,5,Chicago,Berlin,2019-07-05,7093
+1195,7,Frankfurt,Tokio,2019-09-04,9349
+1196,5,Rome,Paris,2018-10-22,1105
+1197,5,New York,Rome,2019-10-13,6897
+1198,4,London,New York,2019-06-11,5578
+1199,5,Chicago,Tokio,2018-06-03,10152
+1200,4,London,Paris,2019-04-18,344
+1201,7,New York,London,2019-10-03,5578
+1202,4,Rome,Warsaw,2019-03-29,1318
+1203,3,Rome,Warsaw,2019-02-22,1318
+1204,4,Rome,Frankfurt,2019-09-12,959
+1205,8,Paris,New York,2018-05-08,5845
+1206,9,Katowice,Berlin,2018-04-11,464
+1207,7,New York,Chicago,2019-06-29,1146
+1208,3,Berlin,Paris,2018-10-22,879
+1209,9,London,Tokio,2018-07-14,9576
+1210,1,Berlin,New York,2018-12-30,6394
+1211,4,Katowice,Warsaw,2018-08-22,259
+1212,1,Frankfurt,Chicago,2018-05-12,6974
+1213,9,Katowice,Berlin,2019-01-07,464
+1214,6,Paris,Chicago,2018-10-10,6660
+1215,8,Tokio,Rome,2018-08-07,9874
+1216,5,Berlin,Frankfurt,2018-05-26,424
+1217,10,Frankfurt,London,2018-02-08,639
+1218,10,Berlin,Paris,2019-12-18,879
+1219,7,Frankfurt,New York,2018-05-14,6211
+1220,3,Katowice,Tokio,2019-02-17,8846
+1221,8,Berlin,Paris,2019-08-18,879
+1222,5,Rome,New York,2018-02-25,6897
+1223,3,Katowice,New York,2018-12-31,6857
+1224,8,Tokio,Rome,2018-02-05,9874
+1225,1,Berlin,New York,2018-01-03,6394
+1226,4,London,Paris,2018-06-24,344
+1227,3,Rome,Paris,2019-12-30,1105
+1228,3,Rome,Paris,2018-08-17,1105
+1229,6,Paris,Berlin,2019-08-14,879
+1230,9,Warsaw,London,2018-05-06,1451
+1231,4,Chicago,Warsaw,2019-09-15,7522
+1232,10,Paris,Katowice,2019-12-04,1212
+1233,2,New York,Katowice,2018-11-27,6857
+1234,5,Rome,New York,2018-09-15,6897
+1235,5,Paris,New York,2018-05-27,5845
+1236,3,Frankfurt,London,2019-01-13,639
+1237,6,London,Tokio,2019-08-27,9576
+1238,8,Tokio,Chicago,2019-05-27,10152
+1239,10,London,Tokio,2018-10-29,9576
+1240,9,Frankfurt,Warsaw,2019-08-11,891
+1241,2,New York,Rome,2018-10-26,6897
+1242,4,Rome,Berlin,2019-02-15,1185
+1243,9,Berlin,New York,2018-06-23,6394
+1244,2,London,Chicago,2018-04-03,6362
+1245,8,Rome,New York,2019-11-12,6897
+1246,8,Warsaw,Chicago,2019-10-10,7522
+1247,3,London,Frankfurt,2018-11-25,639
+1248,8,London,Katowice,2018-03-25,1349
+1249,9,New York,London,2019-11-26,5578
+1250,2,Berlin,Chicago,2019-06-16,7093
+1251,6,Warsaw,Frankfurt,2019-06-03,891
+1252,8,Rome,Paris,2019-02-24,1105
+1253,1,Berlin,Chicago,2019-02-15,7093
+1254,2,New York,Tokio,2018-12-16,10864
+1255,3,Warsaw,New York,2019-02-10,6864
+1256,7,Katowice,Berlin,2018-03-06,464
+1257,6,Warsaw,Paris,2019-05-20,1368
+1258,1,Chicago,New York,2019-08-01,1146
+1259,1,Paris,New York,2018-04-06,5845
+1260,8,Paris,Chicago,2019-01-09,6660
+1261,5,Chicago,Warsaw,2019-06-29,7522
+1262,7,Katowice,New York,2019-05-28,6857
+1263,1,Paris,Warsaw,2018-01-12,1368
+1264,7,Tokio,Katowice,2018-12-09,8846
+1265,7,Tokio,Rome,2019-03-17,9874
+1266,1,New York,Warsaw,2018-01-29,6864
+1267,2,Katowice,Rome,2018-01-27,1059
+1268,6,London,New York,2018-03-08,5578
+1269,5,Tokio,Warsaw,2019-09-18,8595
+1270,7,London,Tokio,2019-10-11,9576
+1271,6,Tokio,Rome,2019-08-18,9874
+1272,5,New York,Paris,2018-02-24,5845
+1273,4,Berlin,Warsaw,2018-07-08,518
+1274,4,Frankfurt,Berlin,2018-05-17,424
+1275,7,Paris,Warsaw,2018-12-29,1368
+1276,2,Tokio,Chicago,2018-12-19,10152
+1277,6,New York,Katowice,2018-11-07,6857
+1278,6,Chicago,Paris,2019-02-12,6660
+1279,5,Chicago,Berlin,2018-08-14,7093
+1280,1,Berlin,New York,2019-10-24,6394
+1281,7,Rome,Frankfurt,2019-11-09,959
+1282,6,Tokio,Paris,2018-12-16,9730
+1283,8,New York,Paris,2018-10-17,5845
+1284,8,Paris,Katowice,2018-12-25,1212
+1285,8,New York,Katowice,2019-08-16,6857
+1286,4,Frankfurt,Katowice,2019-07-01,737
+1287,3,Frankfurt,New York,2019-03-18,6211
+1288,7,Paris,Tokio,2019-09-30,9730
+1289,2,Katowice,Warsaw,2018-01-05,259
+1290,3,London,Katowice,2018-11-13,1349
+1291,9,London,Frankfurt,2019-01-22,639
+1292,1,Berlin,Frankfurt,2018-03-16,424
+1293,2,London,Chicago,2019-05-13,6362
+1294,9,New York,Frankfurt,2019-02-15,6211
+1295,1,Tokio,Paris,2019-11-17,9730
+1296,8,Katowice,New York,2018-04-29,6857
+1297,9,Berlin,Rome,2019-04-01,1185
+1298,8,Rome,New York,2018-08-04,6897
+1299,5,Paris,Frankfurt,2018-12-15,479
+1300,8,Chicago,London,2019-05-06,6362
+1301,4,Warsaw,Tokio,2018-08-08,8595
+1302,1,Warsaw,Frankfurt,2019-05-28,891
+1303,7,Katowice,Frankfurt,2018-12-20,737
+1304,7,Rome,Warsaw,2019-04-01,1318
+1305,6,Rome,Paris,2019-02-05,1105
+1306,3,London,Warsaw,2019-08-28,1451
+1307,8,Warsaw,Katowice,2018-01-07,259
+1308,4,Katowice,Frankfurt,2018-07-03,737
+1309,8,Paris,Katowice,2018-10-15,1212
+1310,4,London,Paris,2019-06-04,344
+1311,6,Katowice,Warsaw,2019-08-19,259
+1312,7,Rome,Berlin,2019-12-08,1185
+1313,6,Tokio,Katowice,2019-10-27,8846
+1314,1,Warsaw,Tokio,2019-12-20,8595
+1315,5,London,New York,2018-06-15,5578
+1316,6,Frankfurt,Warsaw,2018-03-10,891
+1317,10,Frankfurt,Berlin,2019-01-27,424
+1318,3,Katowice,Berlin,2019-01-26,464
+1319,10,London,Rome,2019-11-14,1434
+1320,10,Paris,Chicago,2018-03-16,6660
+1321,2,Chicago,London,2018-11-27,6362
+1322,10,Katowice,Rome,2019-04-18,1059
+1323,10,Katowice,Frankfurt,2018-04-12,737
+1324,3,London,Frankfurt,2019-01-01,639
+1325,3,London,Warsaw,2018-02-16,1451
+1326,8,Berlin,New York,2018-10-24,6394
+1327,9,Warsaw,London,2018-01-07,1451
+1328,2,Rome,Warsaw,2018-04-20,1318
+1329,4,Rome,Chicago,2018-08-08,7749
+1330,1,Paris,Katowice,2018-09-25,1212
+1331,8,Berlin,Tokio,2019-12-07,8933
+1332,8,Warsaw,New York,2019-08-27,6864
+1333,6,Frankfurt,New York,2018-01-01,6211
+1334,2,New York,Katowice,2019-10-16,6857
+1335,10,Frankfurt,London,2019-05-15,639
+1336,1,Katowice,Rome,2018-05-20,1059
+1337,9,Chicago,Paris,2018-08-06,6660
+1338,2,Warsaw,Paris,2019-11-23,1368
+1339,5,Tokio,Chicago,2019-10-31,10152
+1340,6,Katowice,Tokio,2018-09-19,8846
+1341,8,Tokio,Berlin,2018-11-18,8933
+1342,3,Berlin,Katowice,2019-08-24,464
+1343,6,Frankfurt,New York,2019-08-10,6211
+1344,2,Berlin,Chicago,2018-01-17,7093
+1345,8,Frankfurt,Chicago,2019-03-04,6974
+1346,3,Warsaw,Tokio,2018-12-26,8595
+1347,10,Rome,New York,2019-09-12,6897
+1348,7,Tokio,Katowice,2019-09-26,8846
+1349,5,Warsaw,New York,2019-01-27,6864
+1350,5,Tokio,Paris,2019-12-02,9730
+1351,6,Tokio,Katowice,2018-08-07,8846
+1352,5,Warsaw,Tokio,2018-04-20,8595
+1353,3,Berlin,Paris,2018-02-04,879
+1354,1,London,Tokio,2019-08-10,9576
+1355,3,Paris,Tokio,2019-06-14,9730
+1356,8,Paris,London,2018-09-04,344
+1357,2,London,Paris,2019-01-05,344
+1358,1,Berlin,London,2018-02-09,933
+1359,4,Chicago,Berlin,2018-04-17,7093
+1360,2,Chicago,Berlin,2019-06-10,7093
+1361,5,Katowice,Tokio,2019-07-25,8846
+1362,7,London,Katowice,2018-09-07,1349
+1363,7,Rome,Warsaw,2019-01-08,1318
+1364,10,Chicago,New York,2019-04-15,1146
+1365,2,Tokio,Katowice,2019-07-22,8846
+1366,2,Berlin,London,2018-12-16,933
+1367,6,Katowice,Tokio,2018-01-25,8846
+1368,5,Frankfurt,Tokio,2019-09-28,9349
+1369,4,Katowice,London,2018-05-05,1349
+1370,2,Frankfurt,Chicago,2018-11-28,6974
+1371,1,Paris,Chicago,2019-05-26,6660
+1372,1,New York,Rome,2019-06-06,6897
+1373,5,Paris,London,2019-04-08,344
+1374,3,Berlin,Katowice,2018-02-14,464
+1375,6,Katowice,Rome,2019-01-24,1059
+1376,4,Chicago,New York,2018-09-22,1146
+1377,5,Chicago,Tokio,2019-06-07,10152
+1378,5,Rome,Paris,2018-09-21,1105
+1379,6,Frankfurt,Rome,2019-10-05,959
+1380,3,Rome,London,2018-11-29,1434
+1381,7,Katowice,London,2018-08-13,1349
+1382,10,Katowice,Rome,2019-04-27,1059
+1383,4,Warsaw,London,2019-10-03,1451
+1384,3,Warsaw,Tokio,2018-05-03,8595
+1385,9,Warsaw,Rome,2019-01-20,1318
+1386,7,Frankfurt,Chicago,2018-03-19,6974
+1387,8,Tokio,London,2019-07-24,9576
+1388,1,London,Tokio,2018-11-27,9576
+1389,2,Chicago,London,2019-08-13,6362
+1390,8,Warsaw,London,2019-06-10,1451
+1391,10,Paris,Berlin,2018-09-11,879
+1392,9,London,Warsaw,2018-07-12,1451
+1393,4,New York,Chicago,2018-05-10,1146
+1394,2,London,New York,2018-11-01,5578
+1395,8,Berlin,New York,2018-04-01,6394
+1396,10,Paris,Berlin,2018-07-25,879
+1397,10,Berlin,Frankfurt,2018-07-24,424
+1398,5,London,Chicago,2018-01-04,6362
+1399,2,London,Warsaw,2018-01-05,1451
+1400,2,Katowice,London,2018-09-29,1349
+1401,7,Rome,Paris,2018-01-26,1105
+1402,7,Rome,London,2018-03-09,1434
+1403,1,Rome,Warsaw,2018-11-28,1318
+1404,6,Frankfurt,New York,2018-11-10,6211
+1405,3,Rome,Paris,2019-06-20,1105
+1406,2,Warsaw,Paris,2018-12-22,1368
+1407,6,Berlin,Warsaw,2018-12-21,518
+1408,6,Berlin,Katowice,2018-12-26,464
+1409,7,New York,Chicago,2018-10-24,1146
+1410,9,Chicago,Rome,2018-01-07,7749
+1411,9,London,New York,2018-03-26,5578
+1412,4,Rome,Paris,2019-05-15,1105
+1413,10,Tokio,Berlin,2018-05-27,8933
+1414,10,Rome,Chicago,2019-07-04,7749
+1415,6,Rome,New York,2018-01-23,6897
+1416,8,New York,London,2019-01-23,5578
+1417,9,Tokio,London,2018-12-29,9576
+1418,3,Tokio,Rome,2019-08-25,9874
+1419,6,Rome,Frankfurt,2018-12-09,959
+1420,4,Rome,New York,2019-06-10,6897
+1421,10,Tokio,New York,2018-04-10,10864
+1422,6,Tokio,Chicago,2018-07-01,10152
+1423,9,Rome,London,2019-06-10,1434
+1424,7,London,Paris,2018-05-17,344
+1425,3,New York,Paris,2018-05-14,5845
+1426,3,New York,Paris,2018-04-28,5845
+1427,4,London,Katowice,2018-07-05,1349
+1428,9,Chicago,New York,2019-07-30,1146
+1429,2,Katowice,Paris,2018-03-18,1212
+1430,7,London,Rome,2018-03-28,1434
+1431,7,Katowice,Paris,2018-10-01,1212
+1432,1,Frankfurt,Tokio,2018-10-22,9349
+1433,3,Rome,New York,2018-06-16,6897
+1434,5,Berlin,Chicago,2019-11-18,7093
+1435,3,London,Rome,2019-07-16,1434
+1436,7,London,Katowice,2019-03-04,1349
+1437,6,Katowice,Warsaw,2018-07-04,259
+1438,1,Warsaw,Chicago,2019-10-30,7522
+1439,2,Warsaw,Berlin,2018-11-11,518
+1440,2,London,New York,2019-04-28,5578
+1441,8,Warsaw,Paris,2018-03-16,1368
+1442,6,Warsaw,London,2019-06-17,1451
+1443,9,London,Chicago,2018-06-13,6362
+1444,8,Berlin,Warsaw,2018-06-07,518
+1445,8,New York,Paris,2019-11-10,5845
+1446,5,Warsaw,Tokio,2018-11-04,8595
+1447,3,Chicago,Frankfurt,2018-05-17,6974
+1448,3,Chicago,Warsaw,2019-02-24,7522
+1449,3,Chicago,London,2019-12-26,6362
+1450,9,Tokio,Frankfurt,2019-08-19,9349
+1451,4,Warsaw,Tokio,2019-05-03,8595
+1452,2,New York,Katowice,2019-11-10,6857
+1453,7,Paris,Warsaw,2019-01-23,1368
+1454,9,Katowice,Warsaw,2018-04-06,259
+1455,9,Tokio,Katowice,2018-03-19,8846
+1456,1,London,New York,2019-10-14,5578
+1457,3,Berlin,Rome,2019-08-02,1185
+1458,3,Berlin,Paris,2018-03-30,879
+1459,10,New York,Frankfurt,2018-01-10,6211
+1460,9,Warsaw,Tokio,2019-08-14,8595
+1461,7,Paris,Frankfurt,2018-07-21,479
+1462,1,Berlin,New York,2019-07-05,6394
+1463,5,Rome,Paris,2019-09-10,1105
+1464,9,New York,Katowice,2019-02-21,6857
+1465,1,Frankfurt,Tokio,2019-11-12,9349
+1466,10,Frankfurt,Paris,2019-11-10,479
+1467,8,Katowice,Tokio,2019-01-06,8846
+1468,10,Rome,Warsaw,2019-11-22,1318
+1469,7,Tokio,Paris,2018-10-08,9730
+1470,2,Tokio,Warsaw,2018-05-24,8595
+1471,2,Paris,Tokio,2018-06-11,9730
+1472,6,London,Chicago,2019-07-02,6362
+1473,4,Frankfurt,Warsaw,2019-10-22,891
+1474,7,New York,Paris,2018-02-22,5845
+1475,10,Katowice,Paris,2018-07-18,1212
+1476,2,Frankfurt,Paris,2018-01-01,479
+1477,10,Paris,Chicago,2019-09-27,6660
+1478,10,Rome,Chicago,2019-02-24,7749
+1479,6,Tokio,Rome,2018-12-29,9874
+1480,8,Warsaw,Tokio,2019-05-10,8595
+1481,6,Tokio,Berlin,2019-11-30,8933
+1482,5,New York,Katowice,2018-06-15,6857
+1483,9,London,Berlin,2019-04-03,933
+1484,2,Rome,Berlin,2019-09-09,1185
+1485,7,Berlin,Tokio,2019-02-17,8933
+1486,6,Frankfurt,Katowice,2019-11-13,737
+1487,6,Tokio,Berlin,2019-03-29,8933
+1488,2,Paris,Warsaw,2018-10-29,1368
+1489,8,Chicago,Tokio,2018-06-14,10152
+1490,10,Tokio,Katowice,2019-06-30,8846
+1491,3,New York,Rome,2019-10-06,6897
+1492,7,Frankfurt,Warsaw,2019-03-23,891
+1493,7,Chicago,Rome,2018-04-10,7749
+1494,1,Frankfurt,Rome,2019-12-29,959
+1495,8,New York,Frankfurt,2018-08-31,6211
+1496,7,Berlin,Tokio,2018-09-08,8933
+1497,7,Rome,Paris,2018-12-27,1105
+1498,3,New York,Warsaw,2018-07-09,6864
+1499,9,New York,Rome,2019-01-13,6897
+1500,2,Warsaw,Tokio,2018-11-08,8595
+1501,6,London,Rome,2019-01-23,1434
+1502,7,Katowice,Frankfurt,2018-04-07,737
+1503,3,Tokio,Frankfurt,2019-04-27,9349
+1504,8,New York,Warsaw,2018-08-18,6864
+1505,6,Rome,Berlin,2018-10-11,1185
+1506,9,London,Warsaw,2018-04-03,1451
+1507,7,New York,Warsaw,2019-09-24,6864
+1508,9,Paris,New York,2019-08-12,5845
+1509,7,Frankfurt,Katowice,2018-01-24,737
+1510,6,Chicago,Paris,2019-05-28,6660
+1511,2,Tokio,Rome,2018-10-14,9874
+1512,9,New York,Chicago,2019-08-03,1146
+1513,7,Berlin,Tokio,2018-12-14,8933
+1514,10,Chicago,Tokio,2019-07-16,10152
+1515,2,Chicago,Tokio,2018-02-18,10152
+1516,1,Berlin,Warsaw,2018-03-27,518
+1517,6,London,Tokio,2018-10-26,9576
+1518,4,Chicago,Katowice,2019-05-21,7556
+1519,4,Chicago,Tokio,2019-03-16,10152
+1520,5,Warsaw,Katowice,2018-05-28,259
+1521,8,Rome,London,2019-07-11,1434
+1522,8,Rome,Warsaw,2019-10-30,1318
+1523,9,Tokio,New York,2018-10-25,10864
+1524,1,London,Katowice,2019-07-29,1349
+1525,3,Tokio,London,2019-03-24,9576
+1526,7,New York,Warsaw,2018-07-03,6864
+1527,5,London,Tokio,2019-04-08,9576
+1528,8,Berlin,Warsaw,2018-11-26,518
+1529,3,London,Warsaw,2018-07-13,1451
+1530,5,Berlin,Paris,2019-10-08,879
+1531,8,Paris,New York,2019-03-14,5845
+1532,4,Frankfurt,Rome,2019-03-09,959
+1533,8,Rome,Tokio,2019-11-16,9874
+1534,4,Paris,London,2018-05-10,344
+1535,4,Chicago,Berlin,2019-08-31,7093
+1536,6,Berlin,Rome,2019-03-27,1185
+1537,5,Tokio,Katowice,2019-02-05,8846
+1538,2,Chicago,Tokio,2019-12-20,10152
+1539,8,Katowice,Berlin,2019-04-30,464
+1540,8,Tokio,Frankfurt,2019-11-23,9349
+1541,6,Warsaw,New York,2018-03-21,6864
+1542,3,Rome,Katowice,2019-03-23,1059
+1543,8,Paris,Katowice,2018-12-12,1212
+1544,9,Katowice,Tokio,2018-09-16,8846
+1545,8,Warsaw,New York,2018-02-13,6864
+1546,3,Warsaw,Frankfurt,2018-07-20,891
+1547,4,Rome,Tokio,2018-01-27,9874
+1548,8,New York,Warsaw,2019-06-23,6864
+1549,8,Rome,Warsaw,2019-03-20,1318
+1550,5,Warsaw,Frankfurt,2018-01-05,891
+1551,8,Paris,Warsaw,2018-12-02,1368
+1552,1,London,Katowice,2019-03-28,1349
+1553,1,Chicago,Warsaw,2019-03-22,7522
+1554,8,Frankfurt,Rome,2019-05-28,959
+1555,10,London,Katowice,2019-12-08,1349
+1556,10,Tokio,Katowice,2018-12-22,8846
+1557,8,Frankfurt,Tokio,2019-11-14,9349
+1558,5,Paris,Warsaw,2018-06-10,1368
+1559,6,Katowice,London,2019-11-12,1349
+1560,3,Paris,New York,2019-07-22,5845
+1561,6,New York,Katowice,2019-03-03,6857
+1562,7,Frankfurt,Paris,2018-12-28,479
+1563,5,Tokio,Paris,2018-04-18,9730
+1564,9,Katowice,Paris,2018-09-10,1212
+1565,1,Paris,Frankfurt,2019-06-04,479
+1566,6,Frankfurt,Tokio,2019-08-12,9349
+1567,9,London,Berlin,2019-04-30,933
+1568,8,Berlin,Tokio,2018-11-16,8933
+1569,5,Frankfurt,London,2019-06-02,639
+1570,3,London,New York,2019-05-11,5578
+1571,10,New York,Paris,2018-04-23,5845
+1572,9,Berlin,Paris,2019-07-05,879
+1573,9,Tokio,Frankfurt,2019-05-18,9349
+1574,4,New York,Chicago,2018-04-30,1146
+1575,8,Chicago,London,2018-12-13,6362
+1576,4,Katowice,Warsaw,2018-10-21,259
+1577,6,Frankfurt,New York,2018-03-28,6211
+1578,9,Tokio,Chicago,2018-03-28,10152
+1579,5,Katowice,Tokio,2018-11-10,8846
+1580,9,Rome,London,2019-07-14,1434
+1581,10,London,Berlin,2018-01-15,933
+1582,6,Paris,London,2019-09-22,344
+1583,9,London,Chicago,2018-05-15,6362
+1584,3,London,Katowice,2018-04-11,1349
+1585,7,Rome,Chicago,2019-11-01,7749
+1586,7,London,New York,2018-04-26,5578
+1587,3,Warsaw,Berlin,2018-09-03,518
+1588,8,London,Chicago,2018-06-08,6362
+1589,6,Tokio,Chicago,2018-01-27,10152
+1590,10,Frankfurt,Warsaw,2019-05-02,891
+1591,6,Frankfurt,London,2019-01-20,639
+1592,6,Katowice,Rome,2019-01-26,1059
+1593,5,New York,Katowice,2018-05-21,6857
+1594,2,Katowice,Berlin,2019-03-24,464
+1595,5,Rome,Tokio,2019-07-30,9874
+1596,1,Tokio,Rome,2019-10-10,9874
+1597,1,Chicago,Tokio,2018-03-30,10152
+1598,10,New York,Tokio,2019-08-26,10864
+1599,8,Frankfurt,Warsaw,2019-04-03,891
+1600,5,Frankfurt,Paris,2019-08-06,479
+1601,10,Rome,New York,2019-07-24,6897
+1602,8,Paris,London,2019-11-27,344
+1603,10,New York,Warsaw,2018-05-27,6864
+1604,1,London,Berlin,2018-03-15,933
+1605,5,Warsaw,Berlin,2019-01-09,518
+1606,8,Katowice,Berlin,2019-02-27,464
+1607,8,Paris,Frankfurt,2018-03-24,479
+1608,6,London,Tokio,2019-02-26,9576
+1609,1,New York,Warsaw,2018-08-26,6864
+1610,7,Frankfurt,Chicago,2019-07-27,6974
+1611,5,Chicago,Berlin,2019-11-02,7093
+1612,2,Rome,Paris,2018-03-21,1105
+1613,5,Berlin,New York,2019-04-15,6394
+1614,2,Warsaw,Berlin,2018-01-10,518
+1615,1,Paris,Frankfurt,2018-07-31,479
+1616,6,Frankfurt,New York,2018-06-26,6211
+1617,8,Katowice,Rome,2019-10-30,1059
+1618,2,Chicago,Berlin,2018-12-20,7093
+1619,1,Rome,London,2019-06-25,1434
+1620,2,London,Berlin,2019-12-09,933
+1621,2,Tokio,New York,2019-09-25,10864
+1622,8,Chicago,Rome,2019-11-02,7749
+1623,6,Frankfurt,London,2019-05-26,639
+1624,7,New York,Rome,2019-01-25,6897
+1625,7,Berlin,New York,2018-10-31,6394
+1626,9,New York,Warsaw,2018-04-14,6864
+1627,3,New York,Warsaw,2018-04-11,6864
+1628,5,Frankfurt,Chicago,2019-01-16,6974
+1629,8,Berlin,Rome,2018-11-21,1185
+1630,4,Chicago,Katowice,2018-08-15,7556
+1631,7,Warsaw,London,2019-10-28,1451
+1632,10,Frankfurt,Chicago,2019-09-06,6974
+1633,4,Paris,London,2019-10-13,344
+1634,7,Katowice,Tokio,2018-08-07,8846
+1635,9,Chicago,Rome,2019-11-28,7749
+1636,8,Katowice,Rome,2019-07-18,1059
+1637,9,Chicago,Warsaw,2018-09-21,7522
+1638,8,London,Frankfurt,2019-06-08,639
+1639,5,Tokio,New York,2019-10-04,10864
+1640,7,Paris,Tokio,2019-03-09,9730
+1641,1,Tokio,Katowice,2019-11-30,8846
+1642,2,Katowice,Paris,2019-03-28,1212
+1643,5,New York,Berlin,2019-11-02,6394
+1644,6,Paris,Berlin,2019-10-21,879
+1645,4,Berlin,Tokio,2019-08-10,8933
+1646,1,London,Katowice,2019-12-28,1349
+1647,5,Tokio,Warsaw,2018-01-06,8595
+1648,3,Warsaw,New York,2018-03-17,6864
+1649,1,Rome,London,2018-07-03,1434
+1650,2,Katowice,London,2019-10-03,1349
+1651,6,Tokio,London,2019-10-05,9576
+1652,1,Rome,Paris,2019-09-18,1105
+1653,5,Warsaw,New York,2019-08-05,6864
+1654,3,Katowice,Berlin,2019-05-15,464
+1655,6,Warsaw,Paris,2018-06-29,1368
+1656,7,Tokio,Rome,2019-05-19,9874
+1657,10,Warsaw,Rome,2018-10-11,1318
+1658,10,Katowice,Frankfurt,2019-03-14,737
+1659,5,London,Rome,2018-08-07,1434
+1660,2,Warsaw,Berlin,2018-10-29,518
+1661,3,Berlin,Chicago,2019-06-27,7093
+1662,4,Chicago,Berlin,2019-01-26,7093
+1663,10,Rome,New York,2019-09-09,6897
+1664,6,Tokio,Berlin,2018-02-28,8933
+1665,1,Tokio,Frankfurt,2018-02-13,9349
+1666,6,Tokio,Katowice,2018-06-03,8846
+1667,4,Paris,Berlin,2018-09-09,879
+1668,2,New York,Paris,2018-02-12,5845
+1669,10,Berlin,Tokio,2019-02-27,8933
+1670,1,Tokio,Chicago,2018-09-17,10152
+1671,2,Paris,Katowice,2019-02-16,1212
+1672,1,London,Katowice,2018-06-11,1349
+1673,3,Chicago,London,2019-04-20,6362
+1674,3,New York,Chicago,2018-04-04,1146
+1675,1,Katowice,Frankfurt,2018-04-26,737
+1676,10,Chicago,Tokio,2019-01-18,10152
+1677,1,New York,Warsaw,2019-03-07,6864
+1678,2,Chicago,Katowice,2019-04-15,7556
+1679,4,Paris,New York,2018-11-21,5845
+1680,10,Rome,Katowice,2018-12-18,1059
+1681,7,Warsaw,London,2019-04-27,1451
+1682,6,Chicago,New York,2019-09-30,1146
+1683,3,Chicago,Tokio,2019-01-09,10152
+1684,2,Paris,Frankfurt,2018-01-21,479
+1685,2,Rome,New York,2019-09-22,6897
+1686,6,Katowice,London,2019-01-01,1349
+1687,2,Chicago,Frankfurt,2018-09-08,6974
+1688,7,Warsaw,New York,2018-11-21,6864
+1689,1,Warsaw,New York,2018-11-27,6864
+1690,3,Warsaw,Katowice,2019-12-19,259
+1691,4,Chicago,Berlin,2018-09-09,7093
+1692,7,Tokio,Berlin,2018-10-14,8933
+1693,4,Paris,Rome,2018-09-28,1105
+1694,2,Warsaw,Rome,2019-05-24,1318
+1695,5,Paris,Rome,2019-03-07,1105
+1696,6,Warsaw,Chicago,2019-03-21,7522
+1697,2,Tokio,Katowice,2018-08-30,8846
+1698,4,Tokio,Rome,2019-07-20,9874
+1699,1,Katowice,Berlin,2019-05-02,464
+1700,6,London,New York,2019-04-02,5578
+1701,6,Rome,Katowice,2018-02-24,1059
+1702,8,New York,Tokio,2018-02-03,10864
+1703,5,Paris,New York,2018-11-08,5845
+1704,7,London,Frankfurt,2018-06-21,639
+1705,4,Paris,Tokio,2018-10-12,9730
+1706,2,Berlin,Warsaw,2018-05-18,518
+1707,5,Tokio,Katowice,2018-04-21,8846
+1708,1,Tokio,Rome,2019-02-09,9874
+1709,1,Chicago,Berlin,2018-07-18,7093
+1710,4,Warsaw,Paris,2019-10-05,1368
+1711,10,Warsaw,London,2019-12-06,1451
+1712,6,Tokio,Rome,2019-04-19,9874
+1713,7,Paris,Rome,2018-01-07,1105
+1714,6,Katowice,Berlin,2018-03-21,464
+1715,4,Tokio,Chicago,2019-02-11,10152
+1716,1,New York,London,2019-05-13,5578
+1717,10,Rome,Warsaw,2018-10-24,1318
+1718,5,Berlin,Katowice,2018-08-06,464
+1719,5,Paris,Katowice,2018-02-04,1212
+1720,6,Warsaw,Rome,2019-02-11,1318
+1721,9,London,Warsaw,2019-11-22,1451
+1722,4,Paris,Warsaw,2018-05-30,1368
+1723,10,New York,Frankfurt,2019-10-09,6211
+1724,2,Katowice,Frankfurt,2019-03-20,737
+1725,1,Chicago,Frankfurt,2019-03-05,6974
+1726,3,Rome,London,2019-02-26,1434
+1727,5,London,Paris,2019-01-26,344
+1728,2,Chicago,Frankfurt,2019-04-30,6974
+1729,4,Frankfurt,London,2018-10-05,639
+1730,5,Katowice,Frankfurt,2018-07-27,737
+1731,3,Katowice,Rome,2018-01-05,1059
+1732,7,Warsaw,Katowice,2018-05-17,259
+1733,1,Berlin,Paris,2018-03-07,879
+1734,5,Berlin,New York,2019-11-19,6394
+1735,5,Rome,London,2018-05-25,1434
+1736,6,London,Chicago,2018-05-12,6362
+1737,4,Frankfurt,Katowice,2018-11-15,737
+1738,2,Tokio,Paris,2019-09-01,9730
+1739,9,Warsaw,Tokio,2018-12-23,8595
+1740,5,Chicago,Rome,2018-08-06,7749
+1741,7,Katowice,Chicago,2018-09-12,7556
+1742,10,Warsaw,Rome,2018-04-18,1318
+1743,6,Tokio,New York,2019-10-30,10864
+1744,3,Chicago,Frankfurt,2019-05-14,6974
+1745,7,Chicago,London,2018-12-31,6362
+1746,9,Berlin,Chicago,2018-04-18,7093
+1747,10,Frankfurt,Chicago,2019-07-01,6974
+1748,6,Warsaw,Katowice,2019-01-13,259
+1749,10,Tokio,Katowice,2018-07-10,8846
+1750,6,Frankfurt,Berlin,2018-11-01,424
+1751,1,Tokio,London,2019-11-29,9576
+1752,8,Paris,Frankfurt,2019-07-20,479
+1753,5,Chicago,Tokio,2019-10-22,10152
+1754,9,Berlin,Chicago,2018-03-05,7093
+1755,9,Rome,Tokio,2019-09-17,9874
+1756,8,Berlin,Chicago,2018-10-21,7093
+1757,7,Frankfurt,Warsaw,2018-01-17,891
+1758,4,New York,Rome,2018-07-16,6897
+1759,2,Tokio,Frankfurt,2018-02-24,9349
+1760,6,London,Katowice,2019-11-19,1349
+1761,7,New York,Paris,2018-02-14,5845
+1762,3,Frankfurt,Tokio,2019-10-24,9349
+1763,3,London,Chicago,2018-04-25,6362
+1764,5,Warsaw,New York,2019-10-26,6864
+1765,4,Tokio,Berlin,2018-01-24,8933
+1766,3,Warsaw,Paris,2018-07-25,1368
+1767,8,Chicago,Berlin,2019-10-28,7093
+1768,10,Paris,Frankfurt,2018-02-08,479
+1769,3,Paris,London,2018-11-20,344
+1770,9,Frankfurt,Katowice,2018-08-19,737
+1771,3,Warsaw,New York,2018-10-31,6864
+1772,1,Chicago,New York,2019-12-25,1146
+1773,10,Warsaw,Paris,2019-05-23,1368
+1774,3,Tokio,Warsaw,2018-09-06,8595
+1775,3,Paris,New York,2019-02-20,5845
+1776,10,New York,London,2018-10-22,5578
+1777,5,New York,London,2019-09-12,5578
+1778,6,Frankfurt,Berlin,2019-01-31,424
+1779,10,Frankfurt,Katowice,2019-06-11,737
+1780,1,Tokio,London,2019-11-21,9576
+1781,3,Frankfurt,Paris,2018-10-09,479
+1782,7,Warsaw,London,2018-12-27,1451
+1783,10,Berlin,Warsaw,2019-03-24,518
+1784,8,London,Warsaw,2019-03-17,1451
+1785,4,Paris,Frankfurt,2018-12-05,479
+1786,3,Chicago,Rome,2018-10-26,7749
+1787,1,Berlin,Katowice,2019-04-09,464
+1788,4,Tokio,New York,2018-03-24,10864
+1789,5,Paris,Chicago,2018-09-22,6660
+1790,9,Tokio,Warsaw,2018-11-06,8595
+1791,9,Warsaw,Chicago,2018-02-08,7522
+1792,4,Katowice,Tokio,2019-07-11,8846
+1793,5,New York,London,2018-02-11,5578
+1794,5,Frankfurt,Tokio,2019-05-19,9349
+1795,6,Warsaw,Chicago,2019-07-03,7522
+1796,1,Warsaw,London,2018-04-25,1451
+1797,6,Chicago,Berlin,2018-07-10,7093
+1798,7,Chicago,Tokio,2019-12-05,10152
+1799,2,Katowice,Paris,2018-12-21,1212
+1800,5,Frankfurt,Rome,2019-11-04,959
+1801,5,Frankfurt,Paris,2019-11-29,479
+1802,2,Berlin,London,2019-12-08,933
+1803,2,Katowice,Rome,2019-08-13,1059
+1804,1,Paris,Chicago,2019-10-10,6660
+1805,8,Warsaw,London,2019-06-17,1451
+1806,4,Warsaw,Rome,2019-04-08,1318
+1807,3,Rome,New York,2019-06-26,6897
+1808,1,London,Frankfurt,2018-05-09,639
+1809,1,Frankfurt,Katowice,2018-06-26,737
+1810,9,Chicago,London,2019-03-02,6362
+1811,7,Warsaw,Katowice,2019-03-21,259
+1812,5,Katowice,London,2019-04-09,1349
+1813,7,Katowice,Paris,2018-09-09,1212
+1814,3,Rome,London,2018-07-31,1434
+1815,8,Frankfurt,Rome,2019-11-17,959
+1816,3,Rome,Frankfurt,2018-10-30,959
+1817,3,Berlin,Tokio,2018-02-04,8933
+1818,2,Berlin,London,2019-01-31,933
+1819,10,Katowice,Warsaw,2019-12-13,259
+1820,7,London,Paris,2018-05-21,344
+1821,8,Tokio,Frankfurt,2018-07-03,9349
+1822,2,Tokio,Chicago,2018-01-02,10152
+1823,5,Tokio,Chicago,2018-12-23,10152
+1824,2,Katowice,Berlin,2019-12-14,464
+1825,10,Berlin,Katowice,2018-07-01,464
+1826,10,Warsaw,Chicago,2019-03-30,7522
+1827,9,London,Berlin,2019-09-14,933
+1828,8,London,New York,2019-07-04,5578
+1829,10,Rome,Berlin,2019-04-16,1185
+1830,8,Frankfurt,Paris,2019-06-30,479
+1831,3,Katowice,Rome,2019-07-01,1059
+1832,7,Chicago,Rome,2018-01-19,7749
+1833,9,New York,Rome,2019-08-17,6897
+1834,1,Tokio,Rome,2018-01-11,9874
+1835,7,Warsaw,Tokio,2019-08-16,8595
+1836,3,London,Paris,2019-06-01,344
+1837,6,Tokio,Rome,2018-04-18,9874
+1838,5,Chicago,Frankfurt,2018-10-13,6974
+1839,2,Katowice,Frankfurt,2018-05-08,737
+1840,10,Rome,Paris,2018-04-14,1105
+1841,9,London,Warsaw,2019-09-09,1451
+1842,7,Warsaw,Frankfurt,2018-07-26,891
+1843,10,Paris,New York,2019-12-14,5845
+1844,6,Chicago,Rome,2018-11-19,7749
+1845,4,Rome,Paris,2019-07-03,1105
+1846,2,London,Frankfurt,2019-10-31,639
+1847,9,Berlin,Rome,2018-01-18,1185
+1848,2,Rome,London,2018-11-10,1434
+1849,8,Warsaw,Frankfurt,2019-01-06,891
+1850,4,Frankfurt,New York,2018-04-20,6211
+1851,2,Paris,Katowice,2019-07-28,1212
+1852,1,Frankfurt,London,2019-11-30,639
+1853,5,Paris,Warsaw,2018-03-02,1368
+1854,2,Tokio,Rome,2018-01-05,9874
+1855,8,Tokio,Katowice,2019-08-05,8846
+1856,7,Tokio,Paris,2019-08-11,9730
+1857,9,Berlin,London,2019-09-07,933
+1858,8,Berlin,Rome,2019-07-29,1185
+1859,4,Berlin,New York,2019-03-23,6394
+1860,6,Rome,Berlin,2018-09-21,1185
+1861,10,Frankfurt,Warsaw,2018-01-11,891
+1862,5,Tokio,New York,2019-04-27,10864
+1863,9,Frankfurt,Warsaw,2019-05-31,891
+1864,1,Chicago,Katowice,2019-07-01,7556
+1865,6,Paris,Rome,2018-08-31,1105
+1866,10,Rome,Berlin,2018-02-18,1185
+1867,3,London,Rome,2018-03-12,1434
+1868,3,Berlin,Rome,2019-12-18,1185
+1869,2,Chicago,Paris,2019-10-02,6660
+1870,7,Berlin,Katowice,2019-12-04,464
+1871,1,Chicago,Warsaw,2019-12-26,7522
+1872,10,Tokio,New York,2018-11-29,10864
+1873,7,New York,Rome,2018-12-07,6897
+1874,6,New York,Tokio,2018-11-10,10864
+1875,8,Frankfurt,London,2018-05-29,639
+1876,6,Warsaw,Katowice,2019-03-07,259
+1877,5,Rome,Warsaw,2018-09-22,1318
+1878,1,London,Warsaw,2018-09-05,1451
+1879,2,Tokio,Frankfurt,2018-10-31,9349
+1880,7,Warsaw,Berlin,2018-06-01,518
+1881,10,Rome,London,2018-04-03,1434
+1882,5,Katowice,Chicago,2019-12-01,7556
+1883,6,London,Paris,2018-04-01,344
+1884,3,Warsaw,Tokio,2019-02-17,8595
+1885,6,Rome,Paris,2018-12-18,1105
+1886,1,Berlin,Warsaw,2018-08-01,518
+1887,4,Tokio,Berlin,2019-09-20,8933
+1888,5,New York,Tokio,2018-09-11,10864
+1889,2,New York,Chicago,2018-05-23,1146
+1890,7,Berlin,New York,2018-04-04,6394
+1891,6,New York,Chicago,2018-10-21,1146
+1892,2,New York,Katowice,2019-03-26,6857
+1893,8,Katowice,Rome,2018-11-14,1059
+1894,3,London,New York,2019-02-20,5578
+1895,5,Berlin,New York,2019-09-03,6394
+1896,10,Katowice,Rome,2019-02-26,1059
+1897,5,Frankfurt,Tokio,2018-05-19,9349
+1898,8,London,Warsaw,2018-05-04,1451
+1899,5,London,Berlin,2019-10-24,933
+1900,10,New York,London,2019-10-08,5578
+1901,1,Berlin,London,2019-06-26,933
+1902,6,New York,Frankfurt,2019-03-15,6211
+1903,8,New York,London,2019-05-26,5578
+1904,9,Berlin,London,2019-11-26,933
+1905,6,Chicago,Tokio,2019-12-16,10152
+1906,4,New York,Tokio,2018-07-23,10864
+1907,8,New York,London,2019-04-09,5578
+1908,6,Chicago,Rome,2018-08-02,7749
+1909,2,Paris,London,2018-04-03,344
+1910,10,Tokio,Chicago,2018-12-14,10152
+1911,8,New York,Chicago,2018-08-03,1146
+1912,9,Paris,New York,2018-01-04,5845
+1913,1,Tokio,Berlin,2018-07-08,8933
+1914,3,Warsaw,London,2019-12-26,1451
+1915,5,Tokio,New York,2018-11-27,10864
+1916,3,New York,Paris,2018-04-12,5845
+1917,10,Chicago,Paris,2019-12-11,6660
+1918,5,Chicago,New York,2019-08-06,1146
+1919,3,Rome,London,2018-10-26,1434
+1920,6,New York,Rome,2019-11-14,6897
+1921,6,Rome,Paris,2019-07-23,1105
+1922,4,Frankfurt,Rome,2018-10-19,959
+1923,4,Rome,Paris,2019-11-23,1105
+1924,6,Paris,Katowice,2018-05-20,1212
+1925,7,Warsaw,Rome,2018-12-09,1318
+1926,9,Berlin,Chicago,2018-11-10,7093
+1927,3,Paris,Tokio,2019-10-04,9730
+1928,3,Tokio,New York,2019-11-07,10864
+1929,9,Berlin,Paris,2018-08-20,879
+1930,6,Katowice,Warsaw,2018-12-07,259
+1931,9,Rome,Warsaw,2019-08-08,1318
+1932,5,London,New York,2019-02-24,5578
+1933,8,Berlin,Rome,2018-06-15,1185
+1934,1,Warsaw,Katowice,2019-07-04,259
+1935,6,Frankfurt,Rome,2019-12-30,959
+1936,7,Warsaw,Paris,2019-03-04,1368
+1937,10,Berlin,Rome,2018-12-25,1185
+1938,4,Katowice,Warsaw,2019-01-15,259
+1939,5,Paris,Warsaw,2018-09-04,1368
+1940,4,London,Berlin,2019-05-25,933
+1941,8,Rome,New York,2019-10-14,6897
+1942,10,Berlin,Katowice,2018-10-11,464
+1943,1,Rome,Frankfurt,2019-11-13,959
+1944,6,Chicago,Rome,2018-03-20,7749
+1945,5,Warsaw,Berlin,2018-12-12,518
+1946,7,Berlin,Katowice,2018-03-20,464
+1947,2,London,Paris,2019-11-29,344
+1948,2,Chicago,Paris,2018-04-22,6660
+1949,10,Berlin,Warsaw,2019-07-01,518
+1950,2,Tokio,Rome,2018-05-17,9874
+1951,6,Rome,Frankfurt,2019-06-12,959
+1952,8,Chicago,Paris,2018-08-02,6660
+1953,10,Frankfurt,New York,2019-11-01,6211
+1954,6,Frankfurt,Warsaw,2018-10-11,891
+1955,6,Berlin,Katowice,2018-02-17,464
+1956,5,Tokio,Paris,2019-09-17,9730
+1957,5,Frankfurt,New York,2019-07-01,6211
+1958,3,Warsaw,Chicago,2018-09-28,7522
+1959,2,London,Katowice,2019-08-26,1349
+1960,5,Warsaw,Frankfurt,2018-01-08,891
+1961,10,Rome,New York,2018-11-05,6897
+1962,2,New York,London,2019-10-02,5578
+1963,7,Chicago,Tokio,2019-10-04,10152
+1964,10,Paris,Tokio,2019-12-27,9730
+1965,10,New York,Katowice,2018-05-11,6857
+1966,8,Paris,Rome,2019-02-02,1105
+1967,2,Frankfurt,Rome,2019-01-17,959
+1968,5,Paris,Warsaw,2018-08-06,1368
+1969,4,Rome,Tokio,2019-03-15,9874
+1970,4,Katowice,Chicago,2018-05-18,7556
+1971,3,Frankfurt,Warsaw,2018-05-20,891
+1972,8,Chicago,Warsaw,2019-05-21,7522
+1973,1,Chicago,Frankfurt,2019-03-24,6974
+1974,8,Berlin,Rome,2018-01-23,1185
+1975,6,Rome,Tokio,2018-07-29,9874
+1976,5,Paris,Chicago,2018-11-12,6660
+1977,5,Frankfurt,Rome,2019-10-21,959
+1978,10,Rome,Paris,2019-02-14,1105
+1979,3,Warsaw,Katowice,2019-05-07,259
+1980,3,Rome,Paris,2019-04-01,1105
+1981,8,Chicago,Rome,2018-03-08,7749
+1982,3,Berlin,Chicago,2018-08-19,7093
+1983,3,Chicago,Katowice,2019-11-12,7556
+1984,8,Berlin,Paris,2018-05-17,879
+1985,10,Rome,Berlin,2019-11-16,1185
+1986,10,Frankfurt,Chicago,2019-02-19,6974
+1987,6,Katowice,Frankfurt,2019-04-17,737
+1988,9,Paris,Frankfurt,2018-05-01,479
+1989,1,Frankfurt,Berlin,2018-01-06,424
+1990,8,Rome,London,2018-08-31,1434
+1991,5,Berlin,Warsaw,2019-12-21,518
+1992,4,London,Warsaw,2019-05-05,1451
+1993,9,Paris,Berlin,2019-05-14,879
+1994,6,Chicago,Tokio,2019-10-31,10152
+1995,6,Paris,New York,2019-06-19,5845
+1996,10,Chicago,Tokio,2019-02-17,10152
+1997,2,New York,Paris,2018-02-19,5845
+1998,8,Tokio,Berlin,2019-08-06,8933
+1999,6,Paris,Frankfurt,2018-09-20,479
+2000,10,London,Tokio,2019-02-13,9576
